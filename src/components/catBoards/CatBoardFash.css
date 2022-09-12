@@ -1,0 +1,330 @@
+@media(min-width:1217px){
+    .mainboardFash{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsfashion{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: fit-content;
+    }
+    .itemsconfashion{
+        position: relative;
+        width:100%;
+        max-width: fit-content;
+        height: fit-content;
+    }
+    .itemsconfashion p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.85rem;
+        color:grey;
+    }
+    .itemsconfashion2{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:70%;
+        
+    }
+    .itemsconfashion2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion2 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .itemsconfashion3{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:30%;
+    }
+    .itemsconfashion3 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-30px;
+    }
+    .itemsconfashion3 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion3 ul li{
+        position: relative;
+        top:-30px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -13px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .link:hover{
+        color: red;
+    }
+    
+}
+@media(max-width:1217px) and (min-width:992px){
+    .mainboardFash{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsfashion{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: 100%;
+    }
+    .itemsconfashion{
+        position: relative;
+        width:100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .itemsconfashion p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .itemsconfashion2{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:70%;
+        
+    }
+    .itemsconfashion2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion2 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .itemsconfashion3{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:30%;
+    }
+    .itemsconfashion3 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-30px;
+    }
+    .itemsconfashion3 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion3 ul li{
+        position: relative;
+        top:-30px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -13px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .link:hover{
+        color: red;
+    }
+    
+}
+@media(max-width:991px){
+    .mainboardFash{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsfashion{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: 100%;
+    }
+    .itemsconfashion{
+        position: relative;
+        width:100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .itemsconfashion p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .itemsconfashion2{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:70%;
+        
+    }
+    .itemsconfashion2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemsconfashion2 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .itemsconfashion3{
+        position: relative;
+        width: 100%;
+        max-width:100%;
+        height:30%;
+    }
+    .itemsconfashion3 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-30px;
+    }
+    .itemsconfashion3 ul{
+        position: relative;
+        left:0px;
+    }
+    .itemsconfashion3 ul li{
+        position: relative;
+        top:-30px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -13px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .link:hover{
+        color: red;
+    }
+    
+}

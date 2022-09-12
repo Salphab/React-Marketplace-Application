@@ -1,0 +1,156 @@
+@media(min-width:1217px){
+    .mainboardheal{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemshealth{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:33%;
+        height: 100%;
+    }
+    .itemsconhealth1{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height:50%;
+    }
+    .catitemshealth p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemshealth ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemshealth ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.85rem;
+        color:grey;
+    }
+    
+}
+@media(max-width:1216px) and (min-width:992px){
+    .mainboardheal{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemshealth{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:35%;
+        height: 100%;
+    }
+    .itemsconhealth1{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height:50%;
+    }
+    .catitemshealth p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemshealth ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemshealth ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    
+}
+@media(max-width:991px){
+    .mainboardheal{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemshealth{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:33%;
+        height: 100%;
+    }
+    .itemsconhealth1{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height:50%;
+    }
+    .catitemshealth p{
+        position: relative;
+        font-size: 0.75rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemshealth ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemshealth ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    
+}

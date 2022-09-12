@@ -1,0 +1,204 @@
+@media(min-width:1217px){
+    .mainboardbaby{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsbaby{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: 100%;
+    }
+    .catitemsbaby p{
+        position: relative;
+        font-size: 0.8rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemsbaby ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemsbaby ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.85rem;
+        color:grey;
+    }
+    .itemsconbaby{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .itemsconbaby2{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 60%;
+    }
+    .itemsconbaby3{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 80%;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+    
+}
+@media(max-width:1216px) and (min-width:992px){
+    .mainboardbaby{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsbaby{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: 100%;
+    }
+    .catitemsbaby p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemsbaby ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemsbaby ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .itemsconbaby{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .itemsconbaby2{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 60%;
+    }
+    .itemsconbaby3{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 80%;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+    
+}
+@media(max-width:991px){
+    .mainboardbaby{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemsbaby{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 33%;
+        height: 100%;
+    }
+    .catitemsbaby p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .catitemsbaby ul{
+        position: relative;
+        left:0px;
+    }
+    .catitemsbaby ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .itemsconbaby{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .itemsconbaby2{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 60%;
+    }
+    .itemsconbaby3{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: 80%;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+    
+}

@@ -1,0 +1,282 @@
+@media(min-width:1217px){
+    .mainboardcom{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemscom{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemscom ul{
+        position: relative;
+        left:0px;
+    }
+    .itemscom ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.85rem;
+        color:grey;
+    }
+    .catitemscom2{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom2{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:5px;
+    }
+    .itemscom2 ul{
+        position: relative;
+        top:0px;
+        left:0px;
+    }
+    .itemscom2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+}
+@media(max-width:1216px) and (min-width:992px){
+    .mainboardcom{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemscom{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemscom ul{
+        position: relative;
+        left:0px;
+    }
+    .itemscom ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .catitemscom2{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom2{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:5px;
+    }
+    .itemscom2 ul{
+        position: relative;
+        top:0px;
+        left:0px;
+    }
+    .itemscom2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+}
+@media(max-width:991px){
+    .mainboardcom{
+        position: absolute;
+        display: none;
+        left: 20.2%;
+        top:1%;
+        width: 100%;
+        max-width: 60%;
+        height: 99%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-right:5px;
+        background-color: white;
+        border-left: 1px solid rgb(206, 204, 204);
+        z-index: 0;
+    }
+    .catitemscom{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:-10px;
+    }
+    .itemscom ul{
+        position: relative;
+        left:0px;
+    }
+    .itemscom ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.9rem;
+        color:grey;
+    }
+    .catitemscom2{
+        position: relative;
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        height: 49%;
+    }
+    .itemscom2{
+        position: relative;
+        top:3px;
+        width: 100%;
+        max-width:35%;
+        height: 95%;
+        margin-right: 20px;
+    }
+    .itemscom2 p{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 700;
+        left: 15px;
+        top:5px;
+    }
+    .itemscom2 ul{
+        position: relative;
+        top:0px;
+        left:0px;
+    }
+    .itemscom2 ul li{
+        position: relative;
+        top:-10px;
+        width: 100%;
+        max-width: 100%;
+        left:-25px;
+        margin-bottom: -10px;
+        font-size:0.75rem;
+        color:grey;
+    }
+    .link:hover{
+        color:red;
+    }
+    
+}
