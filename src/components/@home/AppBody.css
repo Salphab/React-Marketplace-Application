@@ -1,0 +1,28 @@
+@media (min-width:1217px){
+    .appbody{
+        position: relative;
+        width: 100%;
+        max-width: 80%;
+        height: fit-content;
+        margin: auto;
+    }
+}
+@media (max-width:1216px ) and (min-width:992px){
+    .appbody{
+        position: relative;
+        width: 100%;
+        max-width: 85%;
+        height: fit-content;
+        margin: auto;
+    }
+}
+@media(max-width:991px){
+    .appbody{
+        position: relative;
+        width: 100%;
+        max-width: 97%;
+        height: fit-content;
+        margin: auto;
+}
+}
+
