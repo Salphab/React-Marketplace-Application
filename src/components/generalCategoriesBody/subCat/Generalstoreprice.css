@@ -1,0 +1,201 @@
+@media(min-width:1217px){
+    .price{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .price p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .price input{
+        position: relative;
+        left:6%;
+        margin-right: 10%;
+        margin-bottom: 5%;
+    }
+    .price label{
+        position: relative;
+        top:-3px;
+    }
+    #range{
+        position: relative;
+        top:-10px;
+    }
+    .price form{
+        position: relative;
+        top:-20px;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+    }
+    .price form h3{
+        position: relative;
+        top:-20px;
+    }
+    .price form input{
+        position: relative;
+        width: 100%;
+        max-width: 20%;
+        height: 20px;
+    }
+    .price form input::placeholder{
+        font-size:0.8rem;
+    }
+    .price form input:focus{
+        outline:none;
+    }
+    #rangesubmit{
+        position: relative;
+        background-color: orange;
+        color:white;
+        border: none;
+        top:0px;
+        left:5px;
+        width: 100%;
+        max-width: 50%;
+        height: 26px;
+        cursor:pointer;
+    }
+    
+}
+@media(max-width:1216px) and (min-width:992px){
+    .price{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .price p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .price input{
+        position: relative;
+        left:6%;
+        margin-right: 10%;
+        margin-bottom: 5%;
+    }
+    .price label{
+        position: relative;
+        top:-3px;
+    }
+    #range{
+        position: relative;
+        top:-10px;
+    }
+    .price form{
+        position: relative;
+        top:-20px;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+    }
+    .price form h3{
+        position: relative;
+        top:-20px;
+    }
+    .price form input{
+        position: relative;
+        width: 100%;
+        max-width: 20%;
+        height: 20px;
+    }
+    .price form input::placeholder{
+        font-size:0.8rem;
+    }
+    .price form input:focus{
+        outline:none;
+    }
+    #rangesubmit{
+        position: relative;
+        background-color: orange;
+        color:white;
+        border: none;
+        top:0px;
+        left:5px;
+        width: 100%;
+        max-width: 50%;
+        height: 26px;
+        cursor:pointer;
+    }
+    
+}
+@media(max-width:991px){
+    .price{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .price p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .price input{
+        position: relative;
+        left:6%;
+        margin-right: 10%;
+        margin-bottom: 5%;
+    }
+    .price label{
+        position: relative;
+        top:-3px;
+    }
+    #range{
+        position: relative;
+        top:-10px;
+    }
+    .price form{
+        position: relative;
+        top:-20px;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+    }
+    .price form h3{
+        position: relative;
+        top:-20px;
+    }
+    .price form input{
+        position: relative;
+        width: 100%;
+        max-width: 20%;
+        height: 20px;
+    }
+    .price form input::placeholder{
+        font-size:0.8rem;
+    }
+    .price form input:focus{
+        outline:none;
+    }
+    #rangesubmit{
+        position: relative;
+        background-color: orange;
+        color:white;
+        border: none;
+        top:0px;
+        left:5px;
+        width: 100%;
+        max-width: 50%;
+        height: 26px;
+        cursor:pointer;
+    }
+    
+}

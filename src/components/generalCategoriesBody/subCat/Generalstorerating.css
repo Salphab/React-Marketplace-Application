@@ -1,0 +1,132 @@
+@media(min-width:1217px){
+    .ratingcon{
+        position:relative;
+        top:-35px;
+        width:100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .ratingcon p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        margin-bottom: 10%;
+        letter-spacing: 1px;
+    }
+    .productrate{
+        position: relative;
+        top:-10px;
+        display: flex;
+        height:fit-content;
+    }
+    .productrate input{
+        position:relative;
+        margin-right: 10%;
+        top: 3px;
+        left:5%;
+        margin-bottom: 10px;
+    }
+    .productrate .bxs-star{
+        position: relative;
+        margin-right: 2px;
+        top: 4px;
+        color: orange;
+    }
+    .productrate span{
+        margin-left:5px;
+        font-size: 0.9rem;
+    }
+    #grey{
+        color: rgb(187, 187, 187);
+    }
+}
+@media(max-width:1216px) and (min-width:991px){
+    .ratingcon{
+        position:relative;
+        top:-35px;
+        width:100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .ratingcon p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        margin-bottom: 10%;
+        letter-spacing: 1px;
+    }
+    .productrate{
+        position: relative;
+        top:-10px;
+        display: flex;
+        height:fit-content;
+    }
+    .productrate input{
+        position:relative;
+        margin-right: 10%;
+        top: 3px;
+        left:5%;
+        margin-bottom: 10px;
+    }
+    .productrate .bxs-star{
+        position: relative;
+        margin-right: 2px;
+        top: 4px;
+        color: orange;
+    }
+    .productrate span{
+        margin-left:5px;
+        font-size: 0.9rem;
+    }
+    #grey{
+        color: rgb(187, 187, 187);
+    }
+}
+@media(max-width:991px){
+    .ratingcon{
+        position:relative;
+        top:-35px;
+        width:100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .ratingcon p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        margin-bottom: 10%;
+        letter-spacing: 1px;
+    }
+    .productrate{
+        position: relative;
+        top:-10px;
+        display: flex;
+        height:fit-content;
+    }
+    .productrate input{
+        position:relative;
+        margin-right: 10%;
+        top: 3px;
+        left:5%;
+        margin-bottom: 10px;
+    }
+    .productrate .bxs-star{
+        position: relative;
+        margin-right: 2px;
+        top: 4px;
+        color: orange;
+    }
+    .productrate span{
+        margin-left:5px;
+        font-size: 0.9rem;
+    }
+    #grey{
+        color: rgb(187, 187, 187);
+    }
+}

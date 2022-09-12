@@ -1,0 +1,252 @@
+@media(min-width:1217px){
+    .brands{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .brands p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .brands form{
+        position: relative;
+        display: block;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    #text{
+        position: relative;
+        margin-bottom: 10%;
+        width: 100%;
+        left:7%;
+        max-width: 85%;
+        height: 30px;
+        border: 1px solid  rgb(192, 192, 192);
+    }
+    #text:focus{
+        outline: none;
+    }
+    .brands form input::placeholder{
+        position: relative;
+        font-size: 0.8rem;
+    }
+    .brands form input:focus{
+        outline: none;
+    }
+    .checkbox{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 15px;
+        background-color: red;
+    }
+    .brandscheck{
+        position: relative;
+        left: 5%;
+        margin-right:5%;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 18px;
+    }
+    .checkcon{
+        position: relative;
+        display: flex;
+        margin-bottom: 5px;
+    }
+    .checkcon form{
+        background-color: red;
+        width: 100%;
+        max-width: 100%;
+        left:0%;
+    }
+    label{
+        font-size: 0.8rem;
+    }
+    .checkform{
+        position: relative;
+        top:0px;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 300px;
+        overflow-y: scroll;
+    }
+}
+@media(max-width:1216px) and (min-width:992px){
+    .brands{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .brands p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .brands form{
+        position: relative;
+        display: block;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    #text{
+        position: relative;
+        margin-bottom: 10%;
+        width: 100%;
+        left:7%;
+        max-width: 85%;
+        height: 30px;
+        border: 1px solid  rgb(192, 192, 192);
+    }
+    #text:focus{
+        outline: none;
+    }
+    .brands form input::placeholder{
+        position: relative;
+        font-size: 0.8rem;
+    }
+    .brands form input:focus{
+        outline: none;
+    }
+    .checkbox{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 15px;
+        background-color: red;
+    }
+    .brandscheck{
+        position: relative;
+        left: 5%;
+        margin-right:5%;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 18px;
+    }
+    .checkcon{
+        position: relative;
+        display: flex;
+        margin-bottom: 5px;
+    }
+    .checkcon form{
+        background-color: red;
+        width: 100%;
+        max-width: 100%;
+        left:0%;
+    }
+    label{
+        font-size: 0.8rem;
+    }
+    .checkform{
+        position: relative;
+        top:0px;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 300px;
+        overflow-y: scroll;
+    }
+}
+@media(max-width:991px){
+    .brands{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    .brands p{
+        position: relative;
+        left:0px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        margin-left:8%;
+        letter-spacing: 1px;
+    }
+    .brands form{
+        position: relative;
+        display: block;
+        left:0px;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    #text{
+        position: relative;
+        margin-bottom: 10%;
+        width: 100%;
+        left:7%;
+        max-width: 85%;
+        height: 30px;
+        border: 1px solid  rgb(192, 192, 192);
+    }
+    #text:focus{
+        outline: none;
+    }
+    .brands form input::placeholder{
+        position: relative;
+        font-size: 0.8rem;
+    }
+    .brands form input:focus{
+        outline: none;
+    }
+    .checkbox{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 15px;
+        background-color: red;
+    }
+    .brandscheck{
+        position: relative;
+        left: 5%;
+        margin-right:5%;
+        display: block;
+        width: 100%;
+        max-width: 10%;
+        height: 18px;
+    }
+    .checkcon{
+        position: relative;
+        display: flex;
+        margin-bottom: 5px;
+    }
+    .checkcon form{
+        background-color: red;
+        width: 100%;
+        max-width: 100%;
+        left:0%;
+    }
+    label{
+        font-size: 0.8rem;
+    }
+    .checkform{
+        position: relative;
+        top:0px;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 300px;
+        overflow-y: scroll;
+    }
+}
