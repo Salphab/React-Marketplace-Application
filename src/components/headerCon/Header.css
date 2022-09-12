@@ -1,0 +1,732 @@
+@media (min-width:1217px){
+    :root{
+        --primaryColor : var(rgba(6, 15, 51, 0.83));
+    }
+    html{
+        font-size: 14px;
+    }
+    .mainHeader{
+        position:  sticky;
+        display: flex;
+        flex-direction: row;
+        top:0px;
+        width:100%;
+        max-width: 100%;
+        background-color: white;
+        align-items: flex-start;
+        justify-content: center;
+        height: 75px;
+        z-index: 9999;
+        box-shadow: 0px 2px rgba(170, 170, 170, 0.507);
+    }
+    form{
+        position: relative;
+        top:25%;
+        left:7%;
+        width: 100%;
+        max-width: 40%;
+        height: 43px;
+    }
+    form #searchBar{
+        position: relative;
+        top:0%;
+        width: 100%;
+        max-width: 95%;
+        min-width: 90%;
+        height:85%;
+        border: 1.5px solid red;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+    #searchBar:focus{
+        outline: 1px solid red;
+    }
+    .homeLogo{
+        position: relative;
+        top:25%;
+        left:2%;
+        width: 100%;
+        max-width: 10%;
+        height: 40px;
+        border: 1px grey solid;
+    }
+    #accBar{
+        position: relative;
+        top:25%;
+        left:7%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 30%;
+        height: 40px;
+    }
+    #accBar2{
+        position: relative;
+        top:25%;
+        left:10%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 25%;
+        height: 40px;
+    }
+    #search{
+        position: relative;
+        left:88.4%;
+        top:-40px;
+        background-color: red;
+        width:100%;
+        max-width:4%;
+        height: 19.5px;
+        padding: 10px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #accItems{
+        position: relative;
+        display: flex;
+        top:0%;
+        left:2%;
+        width: 100%;
+        max-width:30%;
+        height: 100%;
+        margin-right: 25px;
+    }
+    #accItems:hover{
+        color:red;
+    }
+    #accItems p{
+        position: relative;
+        top:-9px;
+        text-align: center;
+        font-weight:600; 
+    }
+    #accItems #helpdown{
+        position: relative;
+        display: flex;
+        top:12%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpdown:hover{
+        color: red;
+    }
+    .bx-help-circle{
+        position: relative;
+        top:10px;
+        margin-right:7px;
+        font-size: 1.2rem;
+    }
+    #accItems .bx-chevron-down{
+        position: relative;
+        left:-10%;
+        top:4px;
+        font-size: 1.2rem;
+    }
+    #accItems #helpup{
+        position: relative;
+        display: none;
+        top:15%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpup:hover{
+        color: red;
+    }
+    .bx-chevron-up{
+        position: relative;
+        left:-10%;
+        top:0px;
+        font-size: 1.2rem;
+    }
+    #accItems a{
+        color: var(--primaryColor);
+        text-decoration: none;
+    }
+    
+    #accItems a:hover{
+        color: red;
+    }
+    #accItems2{
+        position: relative;
+        width: 100%;
+        max-width:20%;
+        height: 63%;
+        margin-right: 15px;
+        top:6px;
+        left: -8%;
+        color:rgb(78, 78, 78);
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+    }
+    #accItems2:hover{
+        color: red;
+    }
+    #accItems3{
+        position: relative;
+        top:15%;
+        left:-9%;
+        display: block;
+        width: 100%;
+        max-width:20%;
+        height: 70%;
+        background-color: black;
+        margin-right: 10px;
+    }
+    #accItems3:hover{
+        background-color: rgb(78, 78, 78);
+    }
+    #accItems3 #signup{
+        position: relative;
+        top:2px;
+        left:12%;
+        color: white;
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    #accItems4{
+        position: relative;
+        top:0%;
+        left:-5%;
+        width: 100%;
+        max-width: 30%;
+        height: 100%;
+        border-radius: 3px;
+        background-color: rgb(16, 184, 86);
+    }
+    #accItems4 img{
+        position:relative;
+        left:10%;
+        top:25%;
+        width: 100%;
+        max-width: 20%;
+        height: 50%;
+        margin-right:2px;
+    }
+    #accItems4 p{
+        position: relative;
+        left:38%;
+        top: -78%;
+        font-size: 0.8rem;
+        font-weight: 500;
+        line-height: 15px;
+        color:white;
+    }
+    #accItems4 div{
+        position: relative;
+        top:-74px;
+        left:75%;
+        width:100%;
+        max-width: 20%;
+        height: 55%;
+        background-color: white;
+        align-content: center;
+        border-radius: 2px;
+
+    }
+    #accItems4 div p{
+        position: relative;
+        top: 2px;
+        left: 20%;
+        color:black;
+        font-size: 1rem;
+    }
+}
+@media (max-width:1216px) and (min-width:992px){
+    :root{
+        --primaryColor : var(rgba(6, 15, 51, 0.83));
+    }
+    html{
+        font-size: 14px;
+    }
+    .mainHeader{
+        position:  sticky;
+        display: flex;
+        flex-direction: row;
+        top:0px;
+        width:101%;
+        max-width: 101%;
+        background-color: white;
+        align-items: flex-start;
+        justify-content: center;
+        height: 75px;
+        z-index: 9999;
+        box-shadow: 0px 2px rgba(170, 170, 170, 0.507);
+    }
+    form{
+        position: relative;
+        top:25%;
+        left:7%;
+        width: 100%;
+        max-width: 43%;
+        height: 43px;
+    }
+    form #searchBar{
+        position: relative;
+        top:0%;
+        width: 100%;
+        max-width: 95%;
+        min-width: 90%;
+        height:85%;
+        border: 1.5px solid red;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+    #searchBar:focus{
+        outline: 1px solid red;
+    }
+    .homeLogo{
+        position: relative;
+        top:25%;
+        left:3%;
+        width: 100%;
+        max-width: 10%;
+        height: 40px;
+        border: 1px grey solid;
+    }
+    #accBar{
+        position: relative;
+        top:25%;
+        left: 7%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 35%;
+        height: 40px;
+    }
+    #accBar2{
+        position: relative;
+        top:25%;
+        left:10%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 25%;
+        height: 40px;
+    }
+    #search{
+        position: relative;
+        left:88.4%;
+        top:-40px;
+        background-color: red;
+        width:100%;
+        max-width:4%;
+        height: 19.5px;
+        padding: 10px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #accItems{
+        position: relative;
+        display: flex;
+        top:0%;
+        left:2%;
+        width: 100%;
+        max-width:30%;
+        height: 100%;
+        margin-right: 5px;
+    }
+    #accItems:hover{
+        color:red;
+    }
+    #accItems p{
+        position: relative;
+        top:-9px;
+        text-align: center;
+        font-weight:600; 
+    }
+    #accItems #helpdown{
+        position: relative;
+        display: flex;
+        top:12%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpdown:hover{
+        color: red;
+    }
+    .bx-help-circle{
+        position: relative;
+        top:10px;
+        margin-right:7px;
+        font-size: 1.2rem;
+    }
+    #accItems .bx-chevron-down{
+        position: relative;
+        left:-10%;
+        top:4px;
+        font-size: 1.2rem;
+    }
+    #accItems #helpup{
+        position: relative;
+        display: none;
+        top:15%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpup:hover{
+        color: red;
+    }
+    .bx-chevron-up{
+        position: relative;
+        left:-10%;
+        top:0px;
+        font-size: 1.2rem;
+    }
+    #accItems a{
+        color: var(--primaryColor);
+        text-decoration: none;
+    }
+    
+    #accItems a:hover{
+        color: red;
+    }
+    #accItems2{
+        position: relative;
+        width: 100%;
+        max-width:20%;
+        height: 63%;
+        margin-right: 8px;
+        top:6px;
+        left: -8%;
+        color:rgb(78, 78, 78);
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+    }
+    #accItems2:hover{
+        color: red;
+    }
+    #accItems3{
+        position: relative;
+        top:15%;
+        left:-9%;
+        display: block;
+        width: 100%;
+        max-width:20%;
+        height: 70%;
+        background-color: black;
+        margin-right: 2px;
+    }
+    #accItems3:hover{
+        background-color: rgb(78, 78, 78);
+    }
+    #accItems3 #signup{
+        position: relative;
+        top:2px;
+        left:10%;
+        color: white;
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    #accItems4{
+        position: relative;
+        top:0%;
+        left:-5%;
+        width: 100%;
+        max-width: 22%;
+        height: 100%;
+        border-radius: 3px;
+        background-color: rgb(16, 184, 86);
+    }
+    #accItems4 img{
+        position:relative;
+        left:10%;
+        top:25%;
+        width: 100%;
+        max-width: 20%;
+        height: 50%;
+        margin-right:2px;
+    }
+    #accItems4 p{
+        position: relative;
+        left:38%;
+        top: -78%;
+        font-size: 0.8rem;
+        font-weight: 500;
+        line-height: 15px;
+        color:white;
+    }
+    #accItems4 div{
+        position: relative;
+        top:-74px;
+        left:75%;
+        width:100%;
+        max-width: 20%;
+        height: 55%;
+        background-color: white;
+        align-content: center;
+        border-radius: 2px;
+
+    }
+    #accItems4 div p{
+        position: relative;
+        top: 2px;
+        left: 20%;
+        color:black;
+        font-size: 1rem;
+    }
+}
+@media(max-width:991px){
+    :root{
+        --primaryColor : var(rgba(6, 15, 51, 0.83));
+    }
+    html{
+        font-size: 14px;
+    }
+    .mainHeader{
+        position:  sticky;
+        display: flex;
+        flex-direction: row;
+        top:0px;
+        width:101%;
+        max-width: 101%;
+        background-color: white;
+        align-items: flex-start;
+        justify-content: center;
+        height: 75px;
+        z-index: 9999;
+        box-shadow: 0px 2px rgba(170, 170, 170, 0.507);
+    }
+    form{
+        position: relative;
+        top:25%;
+        left:7%;
+        width: 100%;
+        max-width: 43%;
+        height: 43px;
+    }
+    form #searchBar{
+        position: relative;
+        top:0%;
+        width: 100%;
+        max-width: 95%;
+        min-width: 90%;
+        height:85%;
+        border: 1.5px solid red;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+    #searchBar:focus{
+        outline: 1px solid red;
+    }
+    .homeLogo{
+        position: relative;
+        top:25%;
+        left:0%;
+        width: 100%;
+        max-width: 10%;
+        height: 40px;
+        border: 1px grey solid;
+    }
+    #accBar{
+        position: relative;
+        top:25%;
+        left: 7%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 35%;
+        height: 40px;
+    }
+    #accBar2{
+        position: relative;
+        top:25%;
+        left:10%;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 25%;
+        height: 40px;
+    }
+    #search{
+        position: relative;
+        left:88.4%;
+        top:-40px;
+        background-color: red;
+        width:100%;
+        max-width:4%;
+        height: 19.5px;
+        padding: 10px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #accItems{
+        position: relative;
+        display: flex;
+        top:0%;
+        left:2%;
+        width: 100%;
+        max-width:30%;
+        height: 100%;
+        margin-right: 5px;
+    }
+    #accItems:hover{
+        color:red;
+    }
+    #accItems p{
+        position: relative;
+        top:-9px;
+        text-align: center;
+        font-weight:600; 
+    }
+    #accItems #helpdown{
+        position: relative;
+        display: flex;
+        top:12%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpdown:hover{
+        color: red;
+    }
+    .bx-help-circle{
+        position: relative;
+        top:10px;
+        margin-right:7px;
+        font-size: 1.2rem;
+    }
+    #accItems .bx-chevron-down{
+        position: relative;
+        left:-10%;
+        top:4px;
+        font-size: 1.2rem;
+    }
+    #accItems #helpup{
+        position: relative;
+        display: none;
+        top:15%;
+        width:100%;
+        max-width: 30%;
+        height: 80%;
+        background-color: white;
+        border:none;
+    }
+    #accItems #helpup:hover{
+        color: red;
+    }
+    .bx-chevron-up{
+        position: relative;
+        left:-10%;
+        top:0px;
+        font-size: 1.2rem;
+    }
+    #accItems a{
+        color: var(--primaryColor);
+        text-decoration: none;
+    }
+    
+    #accItems a:hover{
+        color: red;
+    }
+    #accItems2{
+        position: relative;
+        width: 100%;
+        max-width:20%;
+        height: 63%;
+        margin-right: 8px;
+        top:6px;
+        left: -8%;
+        color:rgb(78, 78, 78);
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+    }
+    #accItems2:hover{
+        color: red;
+    }
+    #accItems3{
+        position: relative;
+        top:15%;
+        left:-9%;
+        display: block;
+        width: 100%;
+        max-width:20%;
+        height: 70%;
+        background-color: black;
+        margin-right: 2px;
+    }
+    #accItems3:hover{
+        background-color: rgb(78, 78, 78);
+    }
+    #accItems3 #signup{
+        position: relative;
+        top:2px;
+        left:10%;
+        color: white;
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    #accItems4{
+        position: relative;
+        top:0%;
+        left:-5%;
+        width: 100%;
+        max-width: 22%;
+        height: 100%;
+        border-radius: 3px;
+        background-color: rgb(16, 184, 86);
+    }
+    #accItems4 img{
+        position:relative;
+        left:10%;
+        top:25%;
+        width: 100%;
+        max-width: 20%;
+        height: 50%;
+        margin-right:2px;
+    }
+    #accItems4 p{
+        position: relative;
+        left:38%;
+        top: -78%;
+        font-size: 0.8rem;
+        font-weight: 500;
+        line-height: 15px;
+        color:white;
+    }
+    #accItems4 div{
+        position: relative;
+        top:-74px;
+        left:75%;
+        width:100%;
+        max-width: 20%;
+        height: 55%;
+        background-color: white;
+        align-content: center;
+        border-radius: 2px;
+
+    }
+    #accItems4 div p{
+        position: relative;
+        top: 2px;
+        left: 20%;
+        color:black;
+        font-size: 1rem;
+    }
+}
+
+
+
