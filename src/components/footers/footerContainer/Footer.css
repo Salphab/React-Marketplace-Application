@@ -1,0 +1,1061 @@
+@media(min-width:1217px){
+    #mobileapp #appleandandroidcon{
+        position: relative;
+        display: flex;
+        top:-10%;
+        flex-direction: row;
+        width:100%;
+        max-width:95%;
+        height:57%;
+        margin: auto;  
+    }
+    #mobileapp #androidcon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #androidcon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #androidcon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #androidcon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp #androidcon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #applecon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #applecon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #applecon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp{
+        position: relative;
+        display: block;
+        left:-120px;
+        width: 100%;
+        max-width: 22%;
+        height:90%;
+        margin: auto;
+    }
+    #mobileapp #appleandandroidheader{
+        position: relative;
+        display: block;
+        margin: auto;
+        margin-bottom: 1%;
+        width:100%;
+        max-width:90%;
+        height:35%;
+    }
+    #mobileapp #appleandandroidheader  h4{
+        position: relative;
+        top:-20px;
+        color:white;
+    }
+    #mobileapp #appleandandroidheader p{
+        position: relative;
+        top:-35px;
+        color:grey;
+        font-size: 0.8rem;
+    }
+}
+@media(min-width:1217px){
+    html{
+        font-size: 14px;
+    }
+    #footercon{
+        position: relative;
+        left:0px;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+    }
+    #footer1{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 100%;
+        height: 120px;
+        background-color: rgb(41, 41, 41);
+    }
+    #newsletter{
+        position: relative;
+        left:7%;
+        top: 0%;
+        margin-right: 0px;
+        width:100%;
+        max-width:fit-content;
+        height:fit-content;
+    }
+    #newsletter h4{
+        position: relative;
+        top:-10px;
+        color:white;
+        margin-bottom: 0px;
+    }
+    #newsletter p{
+        position: relative;
+        color:rgb(184, 184, 184);
+        margin: 0px;
+        font-size: 0.8rem;
+        margin-bottom: 10px;
+    }
+    #newsletter form{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        top:15%;
+        left:0px;
+    }
+    #subbox{
+        width:350px;
+        height: 35px;
+        border-radius: 5px;
+        border: 0.5px solid black;
+        margin-right:2px;
+    }
+    #subbox:focus{
+        outline:none;
+    }
+    #subbox::placeholder{
+        position: relative;
+        left:3%;
+        font-size: 0.8rem;
+        color:grey;
+    }
+    #subbutton{
+        position: relative;
+        top:5%;
+        height: 35px;
+        width:100%;
+        font-size: 1.2rem;
+        color: white;
+        font-weight: 600;
+        max-width: fit-content;
+        border-radius: 5px;
+        border-style: none;
+        background-color: red;
+    }
+    #subbutton:hover{
+        background-color:rgb(247, 56, 56);
+    }
+    #footer2con{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:100%;
+        height: 400px;
+        background-color: black;
+    }
+    #footer2{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        margin-right:10px;
+        width: 100%;
+        max-width: 100%;
+        height: 210px;
+    }
+    #footer2 h4{
+        position:relative;
+        left:17%;
+        top:4px;
+        margin-bottom: 40px;
+        color: white;
+    }
+    #footer2 ul{
+        position: relative;
+        left: 2%;
+        width:100%;
+        max-width:100%;
+        height: fit-content;
+    }
+    #footer2 li{
+        position: relative;
+        left:0%;
+        list-style-type: none;
+        margin-bottom: -6px;
+        font-size: 0.9rem;
+    }
+    #footer2 li a{
+        color:grey;
+    }
+    #footer2 li a:hover{
+        color:white;
+       font-weight: 600;
+    }
+    .aboutcon{
+        position: relative;
+        left: 4%;
+        width: 100%;
+        max-width: 20%;
+    }
+    #footer2mini{
+        position: relative;
+        top:6px;
+        display: flex;
+        width: 100%;
+        max-width: fit-content;
+        height: fit-content;    
+    }
+    #socialmedia{
+        position: relative;
+        width: 100%;
+        left:0%;
+        max-width: fit-content;
+        height: fit-content;
+        margin-right:45px;
+    }
+    #socialmedia h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    #socialmedia div{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width:fit-content;
+        height: fit-content;
+    }
+    #socialmedia i{
+        position: relative;
+        left:-17px;
+        font-size:2rem;
+        margin-right:10px;
+        color: rgb(68, 68, 68);
+        transition: all 1s step-start;
+        padding: 10px;
+    }
+    #socialmedia i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:red;
+    }
+    #socialmedia span i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:rgb(0, 110, 255);
+    }
+    #footer2mini{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        left:7%;
+        max-width: 50%;
+        height: fit-content;
+    }
+    #contactus{
+        position: relative;
+        width: 100%;
+        left:-3%;
+        max-width: fit-content;
+        height: fit-content;
+        margin-right:45px;
+    }
+    #contactus h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    .contactussub{
+        position:relative;
+        display:flex;
+        width:100%;
+        max-width: fit-content;
+    }
+    .contactussub i{
+        position: relative;
+        top:0px;
+        left:0px;
+        font-size:2rem;
+        margin-right:10px;
+        color: grey;
+    }
+    .contactussub span{
+        position: relative;
+        color: grey;
+        top:0px;
+        font-size: 1rem;
+        margin-right: 70px;
+    }
+    
+}
+
+@media(max-width:1216px) and (min-width:992px){
+    html{
+        font-size: 14px;
+    }
+    #footercon{
+        position: relative;
+        display: block;
+        width: 101%;
+        max-width: 101%;
+        height: fit-content;
+        margin-bottom:5px;
+    }
+    #footer1{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 100%;
+        height: 120px;
+        background-color: rgb(41, 41, 41);
+    }
+    #newsletter{
+        position: relative;
+        left:7%;
+        top: 0%;
+        margin-right: 0px;
+        width:100%;
+        max-width:fit-content;
+        height:fit-content;
+    }
+    #newsletter h4{
+        position: relative;
+        top:-10px;
+        color:white;
+        margin-bottom: 0px;
+    }
+    #newsletter p{
+        position: relative;
+        color:rgb(184, 184, 184);
+        margin: 0px;
+        font-size: 0.8rem;
+        margin-bottom: 10px;
+    }
+    #newsletter form{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        top:15%;
+        left:0px;
+    }
+    #subbox{
+        width:350px;
+        height: 35px;
+        border-radius: 5px;
+        border: 0.5px solid black;
+        margin-right:2px;
+    }
+    #subbox:focus{
+        outline:none;
+    }
+    #subbox::placeholder{
+        position: relative;
+        left:3%;
+        font-size: 0.8rem;
+        color:grey;
+    }
+    #subbutton{
+        position: relative;
+        top:5%;
+        height: 35px;
+        width:100%;
+        font-size: 1.2rem;
+        color: white;
+        font-weight: 600;
+        max-width: fit-content;
+        border-radius: 5px;
+        border-style: none;
+        background-color: red;
+    }
+    #subbutton:hover{
+        background-color:rgb(247, 56, 56);
+    }
+    #footer2con{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:100%;
+        height: 400px;
+        background-color: black;
+    }
+    #footer2{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        margin-right:10px;
+        width: 100%;
+        max-width: 100%;
+        height: 210px;
+    }
+    #footer2 h4{
+        position:relative;
+        left:17%;
+        top:4px;
+        margin-bottom: 40px;
+        color: white;
+    }
+    #footer2 ul{
+        position: relative;
+        left: 2%;
+        width:100%;
+        max-width:100%;
+        height: fit-content;
+    }
+    #footer2 li{
+        position: relative;
+        left:0%;
+        list-style-type: none;
+        margin-bottom: -6px;
+        font-size: 0.9rem;
+    }
+    #footer2 li a{
+        color:grey;
+    }
+    #footer2 li a:hover{
+        color:white;
+       font-weight: 600;
+    }
+    .aboutcon{
+        position: relative;
+        left: 4%;
+        width: 100%;
+        max-width: 22%;
+    }
+    #footer2mini{
+        position: relative;
+        top:6px;
+        display: flex;
+        width: 100%;
+        max-width: fit-content;
+        height: fit-content;    
+    }
+    #socialmedia{
+        position: relative;
+        width: 100%;
+        left:0%;
+        max-width: fit-content;
+        height: fit-content;
+        margin-right:45px;
+    
+    }
+    #socialmedia h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    #socialmedia div{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width:fit-content;
+        height: fit-content;
+    }
+    #socialmedia i{
+        position: relative;
+        left:-17px;
+        font-size:2rem;
+        margin-right:10px;
+        color: rgb(68, 68, 68);
+        transition: all 1s step-start;
+        padding: 10px;
+    }
+    #socialmedia i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:red;
+    }
+    #socialmedia span i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:rgb(0, 110, 255);
+    }
+    #footer2mini{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        left:7%;
+        max-width: 50%;
+        height: fit-content;
+    }
+    #contactus{
+        position: relative;
+        width: 100%;
+        left:-3%;
+        max-width: fit-content;
+        height: fit-content;
+        margin-right:45px;
+    }
+    #contactus h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    .contactussub{
+        position:relative;
+        display:flex;
+        width:100%;
+        max-width: fit-content;
+    }
+    .contactussub i{
+        position: relative;
+        top:0px;
+        left:0px;
+        font-size:2rem;
+        margin-right:10px;
+        color: grey;
+    }
+    .contactussub span{
+        position: relative;
+        color: grey;
+        font-size: 1rem;
+        top:0px;
+        margin-right: 70px;
+    }
+    
+    
+}
+@media(max-width:1216px) and (min-width:992px){
+    #mobileapp #appleandandroidcon{
+        position: relative;
+        display: flex;
+        top:-10%;
+        flex-direction: row;
+        width:100%;
+        max-width:100%;
+        height:57%;
+        margin: auto;  
+    }
+    #mobileapp #androidcon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #androidcon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #androidcon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #androidcon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp #androidcon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #applecon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #applecon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #applecon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp{
+        position: relative;
+        display: block;
+        left:0px;
+        width: 100%;
+        max-width: 24%;
+        height:90%;
+        margin: auto;
+    }
+    #mobileapp #appleandandroidheader{
+        position: relative;
+        display: block;
+        margin: auto;
+        margin-bottom: 1%;
+        width:100%;
+        max-width:95%;
+        height:35%;
+    }
+    #mobileapp #appleandandroidheader  h4{
+        position: relative;
+        top:-20px;
+        color:white;
+    }
+    #mobileapp #appleandandroidheader p{
+        position: relative;
+        top:-35px;
+        color:grey;
+        font-size: 0.8rem;
+    }
+}
+@media(max-width:991px){
+    html{
+        font-size: 14px;
+    }
+    #footercon{
+        position: relative;
+        display: block;
+        width: 101%;
+        max-width: 101%;
+        height: fit-content;
+        margin-bottom:5px;
+    }
+    #footer1{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 100%;
+        height: 120px;
+        background-color: rgb(41, 41, 41);
+    }
+    #newsletter{
+        position: relative;
+        left:7%;
+        top: 0%;
+        margin-right: 0px;
+        width:100%;
+        max-width:fit-content;
+        height:fit-content;
+    }
+    #newsletter h4{
+        position: relative;
+        top:-10px;
+        color:white;
+        margin-bottom: 0px;
+    }
+    #newsletter p{
+        position: relative;
+        color:rgb(184, 184, 184);
+        margin: 0px;
+        font-size: 0.8rem;
+        margin-bottom: 10px;
+    }
+    #newsletter form{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        top:15%;
+        left:0px;
+    }
+    #subbox{
+        width:350px;
+        height: 35px;
+        border-radius: 5px;
+        border: 0.5px solid black;
+        margin-right:2px;
+    }
+    #subbox:focus{
+        outline:none;
+    }
+    #subbox::placeholder{
+        position: relative;
+        left:3%;
+        font-size: 0.8rem;
+        color:grey;
+    }
+    #subbutton{
+        position: relative;
+        top:5%;
+        height: 35px;
+        width:100%;
+        font-size: 1.2rem;
+        color: white;
+        font-weight: 600;
+        max-width: fit-content;
+        border-radius: 5px;
+        border-style: none;
+        background-color: red;
+    }
+    #subbutton:hover{
+        background-color:rgb(247, 56, 56);
+    }
+    #footer2con{
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width:100%;
+        height: 400px;
+        background-color: black;
+    }
+    #footer2{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        margin-right:10px;
+        width: 100%;
+        max-width: 100%;
+        height: 210px;
+    }
+    #footer2 h4{
+        position:relative;
+        left:17%;
+        top:4px;
+        margin-bottom: 40px;
+        color: white;
+    }
+    #footer2 ul{
+        position: relative;
+        left: 2%;
+        width:100%;
+        max-width:100%;
+        height: fit-content;
+    }
+    #footer2 li{
+        position: relative;
+        left:0%;
+        list-style-type: none;
+        margin-bottom: -6px;
+        font-size: 0.9rem;
+    }
+    #footer2 li a{
+        color:grey;
+    }
+    #footer2 li a:hover{
+        color:white;
+       font-weight: 600;
+    }
+    .aboutcon{
+        position: relative;
+        left: 4%;
+        width: 100%;
+        max-width: 22%;
+    }
+    #footer2mini{
+        position: relative;
+        top:6px;
+        display: flex;
+        width: 100%;
+        max-width: fit-content;
+        height: fit-content;    
+    }
+    #socialmedia{
+        position: relative;
+        width: 100%;
+        left:0%;
+        max-width: fit-content;
+        height: fit-content;
+        margin-right:45px;
+    
+    }
+    #socialmedia h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    #socialmedia div{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width:fit-content;
+        height: fit-content;
+    }
+    #socialmedia i{
+        position: relative;
+        left:-17px;
+        font-size:2rem;
+        margin-right:10px;
+        color: rgb(68, 68, 68);
+        transition: all 1s step-start;
+        padding: 10px;
+    }
+    #socialmedia i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:red;
+    }
+    #socialmedia span i:hover{
+        background-color: white;
+        border-radius: 50%;
+        color:rgb(0, 110, 255);
+    }
+    #footer2mini{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: fit-content;
+        left:7%;
+        max-width: 50%;
+        height: fit-content;
+    }
+    #contactus{
+        position: relative;
+        width: 100%;
+        left:-3%;
+        height: fit-content;
+        margin-right:45px;
+    }
+    #contactus h4{
+        position:relative;
+        top:12px;
+        color:white;
+    }
+    .contactussub{
+        position:relative;
+        display:flex;
+        width:100%;
+        max-width: fit-content;
+    }
+    .contactussub i{
+        position: relative;
+        top:0px;
+        left:0px;
+        font-size:2rem;
+        margin-right:10px;
+        color: grey;
+    }
+    .contactussub span{
+        position: relative;
+        color: grey;
+        font-size:1rem;
+        top:0px;
+        margin-right: 70px;
+    }
+    
+    
+}
+@media(max-width:991px){
+    #mobileapp #appleandandroidcon{
+        position: relative;
+        display: flex;
+        top:-10%;
+        flex-direction: row;
+        width:100%;
+        max-width:100%;
+        height:57%;
+        margin: auto;  
+    }
+    #mobileapp #androidcon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #androidcon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #androidcon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #androidcon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp #androidcon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon{
+        position: relative;
+        display: flex;
+        top:10%;
+        width:100%;
+        max-width: 45%;
+        height:65%;
+        background-color: black;
+        margin-right: 5%;
+        margin-left:5px;
+        border-radius: 5px;
+        border: 1px solid white;
+    }
+    #mobileapp #applecon i{
+        position:relative;
+        top:7px;
+        color:white;
+        font-size: 1.8rem;
+        margin-right: 1px;
+    }
+    #mobileapp #applecon div{
+        position: relative;
+        display: block;
+        top:3%;
+        width:100%;
+        max-width:60%;
+        height: 70%;
+    }
+    #mobileapp #applecon div h4{
+        position:relative;
+        top:-32px;
+        width:100%;
+        color:white;
+    }
+    #mobileapp #applecon div p{
+        position:relative;
+        top:-10px;
+        width:100%;
+        color:white;
+        font-size: 0.65rem;
+    }
+    #mobileapp{
+        position: relative;
+        display: block;
+        left:0px;
+        width: 100%;
+        max-width: 25%;
+        height:90%;
+        margin: auto;
+    }
+    #mobileapp #appleandandroidheader{
+        position: relative;
+        display: block;
+        margin: auto;
+        margin-bottom: 1%;
+        width:100%;
+        max-width:95%;
+        height:35%;
+    }
+    #mobileapp #appleandandroidheader  h4{
+        position: relative;
+        top:-20px;
+        color:white;
+    }
+    #mobileapp #appleandandroidheader p{
+        position: relative;
+        top:-35px;
+        color:grey;
+        font-size: 0.8rem;
+    }
+}
+
