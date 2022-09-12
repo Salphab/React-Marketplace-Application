@@ -1,0 +1,117 @@
+@media(min-width:1200px){
+    .faqstopboard{
+        position: relative;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 250px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: white;
+    }
+    .faqsbodyboard{
+        position: relative;
+        display: block;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 1000px;
+        background-color: white;
+        margin-bottom: 10px;
+    }
+    .faqsbodyboard p{
+        position: relative;
+        top:3%;
+        left:3%;
+        font-size: 2rem;
+        font-weight: 700;
+    
+    }
+    .faqscontent{
+        position: relative;
+        top:1%;
+        left:3%;
+        width:100%;
+        max-width: 90%;
+        height: 90%;
+        border:1px solid grey;
+    }
+}
+@media(max-width:1216px) and (min-width:992px){
+    .faqstopboard{
+        position: relative;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 250px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: white;
+    }
+    .faqsbodyboard{
+        position: relative;
+        display: block;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 1000px;
+        background-color: white;
+        margin-bottom: 10px;
+    }
+    .faqsbodyboard p{
+        position: relative;
+        top:3%;
+        left:3%;
+        font-size: 2rem;
+        font-weight: 700;
+    
+    }
+    .faqscontent{
+        position: relative;
+        top:1%;
+        left:3%;
+        width:100%;
+        max-width: 90%;
+        height: 90%;
+        border:1px solid grey;
+    }
+}
+@media(max-width:991px){
+    .faqstopboard{
+        position: relative;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 250px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: white;
+    }
+    .faqsbodyboard{
+        position: relative;
+        display: block;
+        left:5%;
+        width: 100%;
+        max-width: 90%;
+        height: 1000px;
+        background-color: white;
+        margin-bottom: 10px;
+    }
+    .faqsbodyboard p{
+        position: relative;
+        top:3%;
+        left:3%;
+        font-size: 2rem;
+        font-weight: 700;
+    
+    }
+    .faqscontent{
+        position: relative;
+        top:1%;
+        left:3%;
+        width:100%;
+        max-width: 90%;
+        height: 90%;
+        border:1px solid grey;
+    }
+}

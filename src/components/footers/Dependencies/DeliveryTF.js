@@ -1,16 +1,16 @@
 import TopAdd from "../../addsComponents/TopAdd";
 import Header from "../../headerCon/Header";
 import Footer from "../Footercontainer/Footer";
-import AboutBody from "./AboutBody";
-function AboutUs(){
+import DeliveryTFBody from "./DeliveryTFBody";
+
+function DeliveryTF(){
     return(
         <>
             <TopAdd/>
             <Header/>
-            <AboutBody/>
+            <DeliveryTFBody/>
             <Footer/>
-
         </>
     )
 }
-export default AboutUs;
+export default DeliveryTF;

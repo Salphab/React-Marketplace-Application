@@ -1,0 +1,111 @@
+@media(min-width:1217px){
+    .returnbody{
+        position: relative;
+        width:100%;
+        max-width: 100%;
+        height:fit-content;
+        background-color:  rgb(233, 248, 247);
+    }
+    .returnheadboard{
+        position: relative;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 280px;
+        background-color: white;
+        margin-top: 10px;
+    
+    }
+    .returnbodyboard{
+        position: relative;
+        display: block;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 800px;
+        background-color: white;
+        margin-top: 2px;
+        margin-bottom: 10px;
+    }
+    .returnbodyboard p{
+        position: relative;
+        top:20px;
+        left: 30px;
+        font-size: 2rem;
+        font-weight: 700;
+    }
+}
+@media(max-width:1216px) and (min-width:992px){
+    .returnbody{
+        position: relative;
+        width:100%;
+        max-width: 100%;
+        height:fit-content;
+        background-color:  rgb(233, 248, 247);
+    }
+    .returnheadboard{
+        position: relative;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 280px;
+        background-color: white;
+        margin-top: 10px;
+    
+    }
+    .returnbodyboard{
+        position: relative;
+        display: block;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 800px;
+        background-color: white;
+        margin-top: 2px;
+        margin-bottom: 10px;
+    }
+    .returnbodyboard p{
+        position: relative;
+        top:20px;
+        left: 30px;
+        font-size: 2rem;
+        font-weight: 700;
+    }
+}
+@media(max-width:991px){
+    .returnbody{
+        position: relative;
+        width:100%;
+        max-width: 100%;
+        height:fit-content;
+        background-color:  rgb(233, 248, 247);
+    }
+    .returnheadboard{
+        position: relative;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 280px;
+        background-color: white;
+        margin-top: 10px;
+    
+    }
+    .returnbodyboard{
+        position: relative;
+        display: block;
+        width:100%;
+        max-width: 90%;
+        left:5%;
+        height: 800px;
+        background-color: white;
+        margin-top: 2px;
+        margin-bottom: 10px;
+    }
+    .returnbodyboard p{
+        position: relative;
+        top:20px;
+        left: 30px;
+        font-size: 2rem;
+        font-weight: 700;
+    }
+}

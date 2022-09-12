@@ -1,16 +1,15 @@
 import TopAdd from "../../addsComponents/TopAdd";
 import Header from "../../headerCon/Header";
 import Footer from "../Footercontainer/Footer";
-import AboutBody from "./AboutBody";
-function AboutUs(){
+import FaqsBody from "./FaqsBody";
+function Faqs(){
     return(
         <>
             <TopAdd/>
             <Header/>
-            <AboutBody/>
+            <FaqsBody/>
             <Footer/>
-
         </>
     )
 }
-export default AboutUs;
+export default Faqs;

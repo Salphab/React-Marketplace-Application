@@ -1,16 +1,15 @@
 import TopAdd from "../../addsComponents/TopAdd";
 import Header from "../../headerCon/Header";
 import Footer from "../Footercontainer/Footer";
-import AboutBody from "./AboutBody";
-function AboutUs(){
+import ReturnBody from "./ReturnBody";
+function ReturnPolicy(){
     return(
         <>
             <TopAdd/>
             <Header/>
-            <AboutBody/>
+            <ReturnBody/>
             <Footer/>
-
         </>
     )
 }
-export default AboutUs;
+export default ReturnPolicy;
