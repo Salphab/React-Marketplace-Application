@@ -1,0 +1,493 @@
+@media (min-width:1217px){
+    #tdcontainer{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:10px;
+    }
+    #tdheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(204, 5, 5);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #tdheader h2{
+    position: relative;
+    top:-10%;
+    left:3%;
+    font-size: 1.3rem;
+    color:white;
+    letter-spacing: 2px;
+    margin-right:10px;
+    }
+    #tdheader a{
+        position: relative;
+        top:30%;
+        left:80%;
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+        color:white;
+        height: 25px;
+    }
+    #tdheader  a:hover{
+        color: red;
+    }
+    #recommended{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recommendedheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgba(80, 80, 80);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recommended h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:10px;
+    }
+    #recommended a{
+        position: relative;
+        top:30%;
+        left:65%;
+        margin-bottom: 10px;
+        font-size:1rem;
+        color:white;
+        height: 25px;
+    }
+    #recommended  a:hover{
+        color:red;
+    }
+    #officialstores{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #officialheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(10, 145, 199);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #officialstores h2{
+        position: relative;
+        top:-10%;
+        left:45%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:10px;
+    }
+    #recentlyviewed{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 250px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recentlyheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 23%;
+        background-color: white;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recentlyheader h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        letter-spacing: 2px;
+        font-size: 1.2rem;
+        margin-right:10px;
+        color:black;
+        font-weight: 500;
+    }
+    #recentlyheader a{
+        position: relative;
+        top:30%;
+        left:75%;
+        margin-bottom: 10px;
+        font-size:1rem;
+        color:black;
+        height: 25px;
+    }
+    #recentlyheader a:hover{
+        color: red;
+    }
+}
+@media (max-width:1216px) and (min-width:992px){
+    #tdcontainer{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:10px;
+    }
+    #tdheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(204, 5, 5);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #tdheader h2{
+    position: relative;
+    top:-10%;
+    left:3%;
+    font-size: 1.3rem;
+    color:white;
+    letter-spacing: 2px;
+    margin-right:10px;
+    }
+    #tdheader a{
+        position: relative;
+        top:30%;
+        left:79%;
+        font-size: 1rem;
+        margin-bottom: 10px;
+        color:white;
+        height: 25px;
+    }
+    #tdheader  a:hover{
+        color: red;
+    }
+    #recommended{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recommendedheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgba(80, 80, 80);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recommended h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:5px;
+    }
+    #recommended a{
+        position: relative;
+        top:30%;
+        left:64%;
+        margin-bottom: 10px;
+        font-size:1rem;
+        color:white;
+        height: 25px;
+    }
+    #recommended  a:hover{
+        color:red;
+    }
+    #officialstores{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #officialheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(10, 145, 199);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #officialstores h2{
+        position: relative;
+        top:-10%;
+        left:45%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:10px;
+    }
+    #recentlyviewed{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 250px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recentlyheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 23%;
+        background-color: white;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recentlyheader h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        letter-spacing: 2px;
+        font-size: 1.2rem;
+        margin-right:5px;
+        color:black;
+        font-weight: 500;
+    }
+    #recentlyheader a{
+        position: relative;
+        top:30%;
+        left:74%;
+        margin-bottom: 5px;
+        font-size:1rem;
+        color:black;
+        height: 25px;
+    }
+    #recentlyheader a:hover{
+        color: red;
+    }
+}
+@media(max-width:991px){
+    #tdcontainer{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:10px;
+    }
+    #tdheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(204, 5, 5);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #tdheader h2{
+    position: relative;
+    top:-10%;
+    left:3%;
+    font-size: 1.3rem;
+    color:white;
+    letter-spacing: 2px;
+    margin-right:10px;
+    }
+    #tdheader a{
+        position: relative;
+        top:30%;
+        left:78%;
+        font-size: 1rem;
+        margin-bottom: 10px;
+        color:white;
+        height: 25px;
+    }
+    #tdheader  a:hover{
+        color: red;
+    }
+    #recommended{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recommendedheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgba(80, 80, 80);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recommended h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:10px;
+    }
+    #recommended a{
+        position: relative;
+        top:30%;
+        left:62%;
+        margin-bottom: 10px;
+        font-size:1rem;
+        color:white;
+        height: 25px;
+    }
+    #recommended  a:hover{
+        color:red;
+    }
+    #officialstores{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #officialheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 15%;
+        background-color: rgb(10, 145, 199);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #officialstores h2{
+        position: relative;
+        top:-10%;
+        left:45%;
+        font-size: 1.3rem;
+        color:white;
+        letter-spacing: 2px;
+        margin-right:10px;
+    }
+    #recentlyviewed{
+        position: relative;
+        left:0%;
+        width: 100%;
+        max-width: 100%;
+        height: 250px;
+        border-radius: 5px;
+        background-color: white;
+        margin: auto;
+        margin-bottom:15px;
+    }
+    #recentlyheader{
+        position: relative;
+        display: flex;
+        top:0%;
+        width: 100%;
+        max-width:100%;
+        height: 23%;
+        background-color: white;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #recentlyheader h2{
+        position: relative;
+        top:-10%;
+        left:3%;
+        letter-spacing: 2px;
+        font-size: 1.2rem;
+        margin-right:10px;
+        color:black;
+        font-weight: 500;
+    }
+    #recentlyheader a{
+        position: relative;
+        top:30%;
+        left:72%;
+        margin-bottom: 10px;
+        font-size:1rem;
+        color:black;
+        height: 25px;
+    }
+    #recentlyheader a:hover{
+        color: red;
+    }
+}
+
+
+
+
