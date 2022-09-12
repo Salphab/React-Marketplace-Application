@@ -1,0 +1,12 @@
+@media(min-width:1217px){
+    .catdetail{
+        position: relative;
+        display: flex;
+        left:2.5%;
+        width:100%;
+        max-width: 95%;
+        background-color: white;
+        height: fit-content;
+        margin-bottom: 10px;
+    }
+}
