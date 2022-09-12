@@ -1,0 +1,23 @@
+{
+    "Phonecat":[
+        {"cat":"Mobile Phones", "link":"google.com"},
+         {"cat":"Mobile Phones Accessories", "link":"facebook.com"},
+          {"cat":"Tablets", "link":"twitter.com"},
+          {"cat":"Tablets Accessories", "link":"twitter.com"},
+          {"cat":"Telephones and Accessories", "link":"twitter.com"}
+         ],
+    "Phonebrands":[
+        {"brands":"Samsung", "name":"samsung"}, {"brands":"Apple", "name":"apple"}, {"brands":"Tecno", "name":"tecno"},{"brands":"Infinix", "name":"infinix"},
+        {"brands":"Huwaii", "name":"huwaii"},{"brands":"Oppo", "name":"oppo"},  {"brands":"Google", "name":"google"},{"brands":"Oraimo", "name":"oraimo"},
+        {"brands":"SanDisk", "name":"sandisk"},{"brands":"Xiaomi", "name":"xiaomi"},{"brands":"Zealot", "name":"zealot"},{"brands":"Itel", "name":"itel"},
+        {"brands":"Nokia", "name":"nokia"},{"brands":"Bontel", "name":"bontel"},{"brands":"Motorola", "name":"motorola"},{"brands":"Oneplus", "name":"oneplus"},
+        {"brands":"Phone Cases", "name":"phone cases"},{"brands":"AKG", "name":"akg"},{"brands":"Commax", "name":"commax"},{"brands":"Sony", "name":"sony"},{"brands":"Amazon", "name":"amazon"},
+        {"brands":"Anker", "name":"anker"},{"brands":"Otter Box", "name":"otter box"},{"brands":"A&S", "name":"a&s"},{"brands":"Remax", "name":"remax"}
+    ],
+    "lightData":{
+        "pageHeader": "Phones | Buy and Sell Online",
+        "navigator": "Phones and Tablets",
+        "routeData": "/phones-Tablets"
+        }
+    
+}

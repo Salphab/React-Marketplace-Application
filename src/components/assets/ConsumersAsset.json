@@ -1,0 +1,37 @@
+{
+    "Consumerstorecat":[
+        {"cat":"Electronics Gadgets", "link":"google.com"},
+         {"cat":"Accessories & Supplies", "link":"facebook.com"},
+          {"cat":"Camera & Photo", "link":"twitter.com"},
+          {"cat":"Cameras", "link":"twitter.com"},
+          {"cat":"eBook Readers & Accessories", "link":"twitter.com"},
+          {"cat":"GPS & Navigation", "link":"twitter.com"},
+          {"cat":"Headphones", "link":"twitter.com"},
+          {"cat":"Home Audio", "link":"twitter.com"},
+          {"cat":"Portable Audio & Recorders", "link":"twitter.com"},
+          {"cat":"Radios & Transceivers", "link":"twitter.com"},
+          {"cat":"Security &  Surveillance", "link":"twitter.com"},
+          {"cat":"Television & Video", "link":"twitter.com"},
+          {"cat":"Wearable Technology", "link":"twitter.com"}
+         ],
+    "Consumerstorebrands":[
+        {"brands":"Sony", "name":"sony"}, {"brands":"Zealot", "name":"zealot"}, {"brands":"Polystar", "name":"polystar"},{"brands":"Samsung", "name":"samsung"},
+        {"brands":"LG", "name":"lg"},{"brands":"Djack", "name":"djack"},  {"brands":"Hisense", "name":"hisense"},{"brands":"Electric Art", "name":"electric art"},
+        {"brands":"Arduino", "name":"arduino"},{"brands":"Canon", "name":"canon"},{"brands":"Havit", "name":"havit"},{"brands":"Microsoft", "name":"microsoft"},
+        {"brands":"JBL", "name":"jbl"},{"brands":"Longitech", "name":"longitech"},{"brands":"Dstv", "name":"dstv"},{"brands":"Century", "name":"century"},
+        {"brands":"Comica", "name":"comica"},{"brands":"Dahua", "name":"dahua"},{"brands":"D-marc", "name":"d-marc"},{"brands":"Duracell", "name":"duracell"},{"brands":"Enkor", "name":"enkor"},
+        {"brands":"Escam", "name":"escam"},{"brands":"Garret", "name":"garret"},{"brands":"Generic", "name":"generic"},{"brands":"godox", "name":"godox"},{"brands":"Gotv", "name":"gotv"},
+        {"brands":"Hisense", "name":"hisense"},{"brands":"Hisonic", "name":"hisonic"},{"brands":"Home", "name":"home"},{"brands":"Homeflower", "name":"homeflower"},
+        {"brands":"Infinix", "name":"infinix"},{"brands":"Jbl", "name":"jbl"},{"brands":"JJC", "name":"jjc"},{"brands":"LG", "name":"lg"},
+        {"brands":"Lenovo", "name":"lenovo"},{"brands":"Litokala", "name":"litokala"},{"brands":"Mercury", "name":"mercury"},{"brands":"Measy", "name":"measy"},
+        {"brands":"Motorola", "name":"motorola"},{"brands":"New Age", "name":"new age"},{"brands":"Nikon", "name":"nikon"},{"brands":"Qasa", "name":"qasa"},
+        {"brands":"Polystar"},{"brands":"Qkz"},{"brands":"Panoramic Camera"},{"brands":"Sky Vision"},
+        {"brands":"Solar", "name":"solar"},{"brands":"Strong", "name":"strong"},{"brands":"TCL", "name":"tcl"},{"brands":"Ugreen", "name":"ugreen"}
+    ],
+    "lightData":{
+        "pageHeader": "Consumers Electronics | Buy and Sell Online",
+        "navigator": "Consumers Electronic",
+        "routeData": "/consumers-electronics"
+        }
+    
+}

@@ -1,0 +1,17 @@
+{
+    "Waterstorecat":[
+        {"cat":"Pasta and Macroni", "link":"google.com"},
+         {"cat":"Noodles", "link":"facebook.com"}
+         ],
+    "Waterstorebrands":[
+        {"brands":"Bua", "name":"bua"}, {"brands":"Chikki", "name":"chikki"},{"brands":"Cherie", "name":"cherie"}, {"brands":"Eat Water", "name":"eat water"},{"brands":"Generic", "name":"generic"},
+        {"brands":"Golden Penny", "name":"golden penny"},{"brands":"Indomie", "name":"indomie"},  {"brands":"Minimie", "name":"minimie"},{"brands":"Indomitables", "name":"indomitables"}
+        
+    ],
+    "lightData":{
+        "pageHeader": "Purified Water | Buy and Sell Online",
+        "navigator": ["SuperStore","Purified Water"],
+        "routeData": ["/superstore","/purified-water"]
+        }
+    
+}

@@ -1,0 +1,29 @@
+{
+    "Superstorecat":[
+        {"cat":"Foods and Consumables", "link":"google.com"},
+         {"cat":"Toiletries", "link":"facebook.com"},
+          {"cat":"Alcoholic Beverages and wines", "link":"twitter.com"},
+          {"cat":"SoftDrinks", "link":"twitter.com"},
+          {"cat":"Pet Foods", "link":"twitter.com"},
+          {"cat":"Frozen Foods", "link":"twitter.com"},
+          {"cat":"Grains Foods", "link":"twitter.com"},
+          {"cat":"BreakFast", "link":"twitter.com"},
+          {"cat":"Beverages & Tea", "link":"twitter.com"},
+          {"cat":"Laundry and Home Cleaning", "link":"twitter.com"},
+          {"cat":"Spices &  Seasoning", "link":"twitter.com"},
+          {"cat":"Canned, Jarred & Package Foods", "link":"twitter.com"}
+        ],
+    "Superstorebrands":[
+        {"brands":"AirWick", "name":"airwick"}, {"brands":"Unilever", "name":"unilever"}, {"brands":"Nestle", "name":"nestle"},{"brands":"VIVA", "name":"viva"},
+        {"brands":"Coca Cola", "name":"coca cola"},{"brands":"Pepsi", "name":"pepsi"},  {"brands":"Kellogs", "name":"kellogs"},{"brands":"Milo", "name":"milo"},
+        {"brands":"Golden Penny", "name":"golden penny"},{"brands":"Power Oil", "name":"power oil"},{"brands":"Indomie", "name":"indomie"},{"brands":"Sunlight", "name":"sunlight"},
+        {"brands":"OMO Detergent", "name":"omo detergent"},{"brands":"Three Crown", "name":"three crown"},{"brands":"Peak", "name":"peak"},{"brands":"Lipton", "name":"lipton"},{"brands":"Air Wick", "name":"air wick"},
+        {"brands":"Honeywell", "name":"honeywell"},{"brands":"Harpic", "name":"harpic"},{"brands":"Hypo", "name":"hypo"},{"brands":"Snicker", "name":"snicker"},{"brands":"Familia", "name":"familia"},{"brands":"Ariel", "name":"ariel"}
+    ],
+    "lightData":{
+        "pageHeader": "Superstore | Buy and Sell Online",
+        "navigator": "Superstore",
+        "routeData": "/supersore"
+        }
+    
+}

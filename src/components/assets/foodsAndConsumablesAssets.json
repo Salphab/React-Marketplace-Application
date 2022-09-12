@@ -1,0 +1,49 @@
+{
+    "Foodstorecat":[
+        {"cat":"Rice and Grains", "link":"google.com"},
+         {"cat":"Pasta and Macroni", "link":"facebook.com"},
+          {"cat":"Noodles", "link":"twitter.com"},
+          {"cat":"Seasoning,Spices & Flavors", "link":"twitter.com"},
+          {"cat":"Cooking oils", "link":"twitter.com"},
+          {"cat":"Cereals", "link":"twitter.com"},
+          {"cat":"Flours", "link":"twitter.com"},
+          {"cat":"Butter,Jams,Mayonnaise", "link":"twitter.com"},
+          {"cat":"Tea & Beverages", "link":"twitter.com"},
+          {"cat":"Sweetners & Sugar", "link":"twitter.com"},
+          {"cat":"canned & jarred foods", "link":"twitter.com"},
+          {"cat":"Paps & Custards", "link":"twitter.com"},
+          {"cat":"Biscuit", "link":"twitter.com"},
+          {"cat":"Baking", "link":"twitter.com"}
+         ],
+    "Foodstorebrands" :[
+        {"brands":"activa", "name":"activa"}, {"brands":"Amony", "name":"amony"}, {"brands":"Ayoola Foods", "name":"ayoola foods"},{"brands":"Banga", "name":"banga"},
+        {"brands":"Barilla", "name":"barilla"},{"brands":"BB", "name":"bb"},  {"brands":"Bobs Red Mill", "name":"bobs red mill"},{"brands":"bonita", "name":"bonita"},
+        {"brands":"Brillo", "name":"brillo"},{"brands":"Chat Foods", "name":"chat foods"},{"brands":"Checkers", "name":"checkers"},{"brands":"Chi", "name":"chi"},
+        {"brands":"Chikki", "name":"chikki"},{"brands":"Costa", "name":"costa"},{"brands":"Dangote", "name":"dangote"},{"brands":"Derica", "name":"derica"},
+        {"brands":"Devon Kings", "name":"devon kings"},{"brands":"Dolmio", "name":"dolmio"},{"brands":"Dr Rashell", "name":"dr rashell"},{"brands":"Dolmio", "name":"dolmio"},{"brands":"Ducros", "name":"ducros"},
+        {"brands":"Ebom", "name":"ebom"},{"brands":"FADAELLA", "name":"fadaella"},{"brands":"Famous Amos", "name":"famous amos"},{"brands":"Fastizers", "name":"fastiizers"},{"brands":"Filippo Berio", "name":"filippo berio"},
+        {"brands":"Folex Organic", "name":"folex organic"},{"brands":"Foxs", "name":"foxs"},{"brands":"Generic", "name":"generic"},{"brands":"Gino", "name":"gino"},
+        {"brands":"Golden Penny", "name":"golden penny"},{"brands":"Gold Scottish", "name":"gold scottish"},{"brands":"Goya", "name":"goya"},{"brands":"Grand", "name":"grand"},
+        {"brands":"Haansbro", "name":"hannsbro"},{"brands":"Heinz", "name":"Hemani"},{"brands":"Herbsconnect", "name":"herbsconnect"},{"brands":"Indomie", "name":"indomie"},
+        {"brands":"Jiangang", "name":"jiangang"},{"brands":"Kellogs", "name":"kellogs"},{"brands":"King arthur Baking Company", "name":"king arthurbaking company"},{"brands":"Kirkland Signature", "name":"kirklanf signature"},
+        {"brands":"Knorr",  "name":"knorr"},{"brands":"Kraft", "name":"kraft"},{"brands":"Ktc", "name":"Lady B"},{"brands":"Laser", "name":"Laser"},
+        {"brands":"Laziz", "name":"laziz"},{"brands":"Mamador", "name":"mamador"},{"brands":"Mama Gold", "name":"mama gold"},{"brands":"Mcvities", "name":"mcvities"},
+        {"brands":"Mdh", "name":"mdh"},{"brands":"Members Mark", "name":"members mark"},{"brands":"Minimie", "name":"minimie"},{"brands":"Mr Chef", "name":"mr chef"},
+        {"brands":"Natco", "name":"natco"},{"brands":"Nestle", "name":"nestle"},{"brands":"Newbisco", "name":"newbisco"},{"brands":"Nini Spicy", "name":"nini spicy"},
+        {"brands":"Nutzy", "name":"nutzy"},{"brands":"Okomu", "name":"okomu"},{"brands":"Oreo", "name":"oreo"},{"brands":"Oxford", "name":"oxford"},
+        {"brands":"Pegasus", "name":"pegasus"},{"brands":"popcorners", "name":"popcorners"},{"brands":"Power oil", "name":"power oil"},{"brands":"Pride of India", "name":"pride of india"},
+        {"brands":"Pringles", "name":"pringles"},{"brands":"Pure Bliss", "name":"pure bliss"},{"brands":"Quaker", "name":"quaker"},{"brands":"Quantum Nutrition Labs", "name":"Quantum Nutrition labs"},
+        {"brands":"Royal", "name":"royal"},{"brands":"Sainburys", "name":"sainburys"},{"brands":"Sarah", "name":"sarah"},{"brands":"Shan", "name":"shan"},
+        {"brands":"Simply", "name":"simply"},{"brands":"Skippy", "name":"skippy"},{"brands":"Sonia", "name":"sonia"},{"brands":"SoYummy", "name":"soyummy"},
+        {"brands":"Spice Supreme", "name":"spice supreme"},{"brands":"Sunola", "name":"sunola"},{"brands":"Sweet Baby", "name":"sweet baby"},{"brands":"Terra", "name":"terra"},
+        {"brands":"Tesco", "name":"tesco"},{"brands":"Tiger", "name":"tiger"},{"brands":"Toren", "name":"toren"},{"brands":"Tower Gate", "name":"tower gate"},
+        {"brands":"Tropical Slim", "name":"tropical Slim"},{"brands":"Trs", "name":"trs"},{"brands":"Wanted", "name":"wanted"},{"brands":"Welchs", "name":"welchs"},
+        {"brands":"Wesson", "name":"wesson"},{"brands":"Yale", "name":"yale"},{"brands":"Zok", "name":"zok"}
+    ],
+    "lightData":{
+        "pageHeader": "Foods and Consumables | Buy and Sell Online",
+        "navigator": ["SuperStore","foods & Consumables"],
+        "routeData": ["/superstore","/foods-consumable-supplies"]
+        }
+    
+}

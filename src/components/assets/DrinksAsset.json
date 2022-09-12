@@ -1,0 +1,20 @@
+{
+    "Drinkstorecat":[
+        {"cat":"Energy Drinks", "link":"google.com"},
+        {"cat":"Malt Drinks", "link":"facebook.com"},
+        {"cat":"Soda Drinks", "link":"twitter.com"}
+        ],
+    "Drinkstorebrands":[
+        {"brands":"Amstel Malta", "name":"amstel malta"}, {"brands":"Bigi", "name":"bigi"}, {"brands":"5Alive", "name":"5alive"}, {"brands":"Climax", "name":"climax"}, 
+        {"brands":"Cway", "name":"cway"},{"brands":"Coca-Cola", "name":"coca-cola"}, {"brands":"Dubic", "name":"dubic"}, {"brands":"Fanta", "name":"fanta"},{"brands":"Fayrouz", "name":"fayrouz"}, 
+        {"brands":"Generic", "name":"generic"},{"brands":"Guiness", "name":"guines"},{"brands":"Lacascera", "name":"lacascera"}, {"brands":"Maltina", "name":"maltina"},
+        {"brands":"Mirinda", "name":"miranda"},{"brands":"Pepsi", "name":"pepsi"},{"brands":"Popcola", "name":"popcola"},{"brands":"Predator", "name":"predator"},
+        {"brands":"Rc", "name":"rc"},{"brands":"Sprite", "name":"sprite"},{"brands":"Vitamilk", "name":"vitamilk"}
+        ],
+    "lightData":{
+        "pageHeader": "Drinks | Buy and Sell Online",
+        "navigator": ["SuperStore","Drinks"],
+        "routeData": ["/superstore","/drinks"]
+        }
+    
+}

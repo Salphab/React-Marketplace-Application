@@ -1,0 +1,52 @@
+{
+    "Gamingstorecat":[
+        {"cat":"Sports & Fitness", "link":"google.com"},
+        {"cat":"Outdoor Recreation", "link":"google.com"},
+        {"cat":"Nintendo", "link":"google.com"},
+         {"cat":"Other Gaming Systems", "link":"facebook.com"},
+          {"cat":"PC Gaming", "link":"twitter.com"},
+          {"cat":"Playstation", "link":"twitter.com"},
+          {"cat":"Retro Gaming & Microconsoles", "link":"twitter.com"},
+          {"cat":"Sony PSP", "link":"twitter.com"},
+          {"cat":"Xbox", "link":"twitter.com"}
+         ],
+    "Gamingstorebrands":[
+        {"brands":"A4 Fashion", "name":"a4 fashion"}, {"brands":"Adidas", "name":"adidas"}, {"brands":"American Fitness", "name":"amercan fitness"},{"brands":"Aonije", "name":"aonije"},
+        {"brands":"Aotu", "name":"aotu"}, {"brands":"Arsuxeo", "name":"arsuxeo"}, {"brands":"Blue Field", "name":"blue field"},{"brands":"Body Fit", "name":"body fit"},
+        {"brands":"Boodun", "name":"boodun"}, {"brands":"Brs", "name":"brs"}, {"brands":"B Soul", "name":"b soul"},{"brands":"Bullcaptain", "name":"bullcaptain"},
+        {"brands":"Activision", "name":"activision"}, {"brands":"2K Sports", "name":"2k sports"}, {"brands":"Bethesda Softworks", "name":"bethesda softwork"},{"brands":"Camry", "name":"camry"},
+        {"brands":"Capcom", "name":"capcom"},{"brands":"Codemaster", "name":"codemaster"},  {"brands":"Deep Silver", "name":"deep silver"},{"brands":"Disney", "name":"disney"},
+        {"brands":"EA Games", "name":"ea games"},{"brands":"Ea Sports", "name":"ea sports"},{"brands":"Eidos", "name":"eidos"},{"brands":"Epics Games", "name":"epics games"},
+        {"brands":"Everlast", "name":"everlast"}, {"brands":"Fashion", "name":"fashion"}, {"brands":"Fitness Master", "name":"fitness master"},{"brands":"Flamehorse", "name":"flamehorse"},
+        {"brands":"Fifa", "name":"fifa"},{"brands":"Focus Home Interactive", "name":"focus home interactive"},{"brands":"Generic", "name":"generic"},{"brands":"Gen Game", "name":"gen game"},
+        {"brands":"General Craft", "name":"general craft"}, {"brands":"Generic", "name":"generic"}, {"brands":"Giyo", "name":"giyo"},{"brands":"Goal Sporting Goods", "name":"goal sporting goods"},
+        {"brands":"Goli Nutrition", "name":"goli nutrition"}, {"brands":"Greenlife", "name":"greenlife"}, {"brands":"Gub", "name":"gub"},{"brands":"Head", "name":"head"},
+        {"brands":"Hexagon",  "name":"hexagon"}, {"brands":"HooverBoard", "name":"hoverboard"}, {"brands":"Huffy", "name":"huffy"},
+        {"brands":"Guerrilla", "name":"guerrilla"},{"brands":"Harmonix", "name":"harmonix"},{"brands":"Havit", "name":"havit"},{"brands":"Hxsj", "name":"hxsj"},{"brands":"Insomniac Games", "name":"insomniac"},
+        {"brands":"Ilure",  "name":"ilure"}, {"brands":"Inbike", "name":"inbike"}, {"brands":"Intex", "name":"intex"},{"brands":"Iron Gym", "name":"iron gym"},
+        {"brands":"Ipega", "name":"ipega"},{"brands":"JBL", "name":"jbl"},{"brands":"Konami", "name":"konami"},{"brands":"Lego", "name":"lego"},{"brands":"Licensed Nitendo", "name":"licensed nitendo"},
+        {"brands":"Kazu", "name":"kazu"}, {"brands":"Kyncilor", "name":"kyncilor"}, {"brands":"Leijaer", "name":"leijaer"},{"brands":"Leo", "name":"leo"},
+        {"brands":"Litepro", "name":"litepro"}, {"brands":"Lixada", "name":"lixada"}, {"brands":"Lizard", "name":"lizard"},{"brands":"Lucky", "name":"lucky"},
+        {"brands":"Mikasa", "name":"mikasa"}, {"brands":"Molten", "name":"molten"}, {"brands":"Mumian", "name":"mumian"},{"brands":"Nashua", "name":"nashua"},
+        {"brands":"Natures Field", "name":"natures field"}, {"brands":"Neoprene", "name":"neoprene"}, {"brands":"Prince", "name":"prince"},{"brands":"Pro Acting", "name":"pro acting"},
+        {"brands":"Proberos", "name":"proberos"}, {"brands":"Qasa", "name":"qasa"}, {"brands":"Regail", "name":"regail"},{"brands":"Revoflex", "name":"revoflex"},
+        {"brands":"Rockbros", "name":"rockbros"}, {"brands":"Roll Max", "name":"roll max"}, {"brands":"Roswheel", "name":"roswheel"},{"brands":"Sahoo", "name":"sahoo"},
+        {"brands":"Seaknight", "name":"seaknight"}, {"brands":"SHINETRIP", "name":"shinetrip"}, {"brands":"Shure", "name":"shure"},{"brands":"SLINX", "name":"slinx"},
+        {"brands":"Spalding", "name":"spalding"}, {"brands":"Spinning", "name":"spinning"}, {"brands":"Sports", "name":"sports"},{"brands":"Stiga", "name":"stiga"},
+        {"brands":"Sweat Belt", "name":"sweat belt"}, {"brands":"TOMSHOO", "name":"tomshoo"}, {"brands":"Tummy Trimmer", "name":"tummy trimmer"},{"brands":"Tummy Tuck", "name":"tummy tuck"},
+        {"brands":"Tynor", "name":"tynor"}, {"brands":"Vibroaction", "name":"vibroaction"}, {"brands":"Vibro Shape", "name":"vibro shape"},{"brands":"Wake", "name":"wake"},
+        {"brands":"WAXIBA", "name":"waxiba"}, {"brands":"WEST BIKING", "name":"weat biking"}, {"brands":"Wheel Up", "name":"wheel up"},{"brands":"Wilson", "name":"wilson"},
+        {"brands":"Logitech", "name":"longitech"},{"brands":"Lucas Art", "name":"lucas art"},{"brands":"Marvel", "name":"marvel"},{"brands":"Maximium Games", "name":"maximium games"},
+        {"brands":"Microsoft", "name":"microsoft"},{"brands":"Midway", "name":"midway"},{"brands":"Milestone", "name":"milestone"},{"brands":"Mojang Ab", "name":"mojang ab"},
+        {"brands":"Nacon", "name":"nacon"},{"brands":"Namco", "name":"namco"},{"brands":"Naughty Dog", "name":"naughty dog"},{"brands":"Nitendo", "name":"nitendo"},
+        {"brands":"Nitendo Switch"},{"brands":"Outright Games"},{"brands":"Playstation"},{"brands":"Rockstar Games"},
+        {"brands":"Santa Monica", "name":"santa monica"},{"brands":"Sega", "name":"sega"},{"brands":"Sony Computer Entertainment", "name":"sony computer entertainment"},{"brands":"Ubisoft", "name":"ubisoft"},
+        {"brands":"UCOM", "name":"ucom"},{"brands":"Steelseries", "name":"steelseries"},{"brands":"THQ Nordic", "name":"thq nordic"},{"brands":"TellTale Games", "name":"telltale games"}
+    ],
+    "lightData":{
+        "pageHeader": "Games and Sports|Buy and Sell Online",
+        "navigator": "Games and Sport",
+        "routeData": "/gaming-sport"
+        }
+    
+}

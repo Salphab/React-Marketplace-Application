@@ -1,0 +1,40 @@
+{
+    "Spicestorecat":[
+        {"cat":"Herbs", "link":"facebook.com"},
+        {"cat":"Seasoning and Spices", "link":"google.com"},
+        {"cat":"Paste", "link":"twitter.com"}
+         ],
+    "Spicestorebrands":[
+        {"brands":"AACE FOODS", "name":"aace foods"}, {"brands":"Agas Wholesome Foods", "name":"agas wholesome foods"}, {"brands":"Aichun Beauty", "name":"aichum beauty"},{"brands":"Aji No Moto", "name":"aji ni moto"},
+        {"brands":"Amawonda", "name":"amawonda"},{"brands":"Amos White", "name":"amos white"},  {"brands":"Amoy", "name":"amoy"},{"brands":"Avila", "name":"avila"},
+        {"brands":"AVILAN", "name":"avilan"},{"brands":"Badia", "name":"badia"},{"brands":"Bas", "name":"bas"},{"brands":"Batchelors", "name":"batchelors"},
+        {"brands":"Bayara", "name":"bayara"},{"brands":"Benny", "name":"benny"},{"brands":"Bio heritage", "name":"bio heritage"},{"brands":"Buywholefoodsonline.uk", "name":"buywholefoodsonline.uk"},
+        {"brands":"Chat Foods", "name":"chat foods"},{"brands":"Christmas", "name":"christmas"},{"brands":"Coilcare", "name":"coilcare"},{"brands":"Costa", "name":"costa"},{"brands":"Crownfield", "name":"crownfield"},
+        {"brands":"Dabur", "name":"dabur"},{"brands":"Daily Fresh", "name":"daily fresh"},{"brands":"DIFL FOODS", "name":"difl foods"},{"brands":"Ducros", "name":"ducros"},{"brands":"Emma", "name":"Emma"},
+        {"brands":"Euroma", "name":"euroma"},{"brands":"Fashion", "name":"fashion"},{"brands":"Folexfoods", "name":"folexfoods"},{"brands":"FreshJax", "name":"freshjax"},
+        {"brands":"Frontier Co Op", "name":"frontier co op"},{"brands":"Garlic Pro", "name":"Garlic pro"},{"brands":"GELMOX", "name":"gelmox"},{"brands":"Generic", "name":"generic"},
+        {"brands":"Gino", "name":"gino"},{"brands":"Goya", "name":"goya"},{"brands":"Greenfield", "name":"greenfield"},{"brands":"Hala", "name":"hala"},
+        {"brands":"Hekoma Center", "name":"hekoma center"},{"brands":"Hemani", "name":"hemani"},{"brands":"Herbsconnect", "name":"herbsconnect"},{"brands":"Himalaya", "name":"himalaya"},
+        {"brands":"HP Foods",  "name":"Ids"},{"brands":"Ids Instant", "name":"ids instant"},{"brands":"JADA Spices", "name":"jada spices"},{"brands":"Jainam", "name":"jainam"},
+        {"brands":"Jasam Foods", "name":"jasam foods"},{"brands":"Karma Kafe", "name":"karma kafe"},{"brands":"Kenco", "name":"kenco"},{"brands":"King Arthur Baking Company", "name":"king arthur baking company"},
+        {"brands":"Kirkland Signature", "name":"kirkland signature"},{"brands":"Knorr", "name":"knorr"},{"brands":"La flor", "name":"la flor"},{"brands":"Lamis", "name":"lamis"},
+        {"brands":"Laser", "name":"laser"},{"brands":"Laurels Nature", "name":"laurels nature"},{"brands":"Lavazza Coffee", "name":"lavazza coffee"},{"brands":"Lawrys", "name":"lawrys"},
+        {"brands":"Long Hai", "name":"long hai"},{"brands":"Maggi", "name":"maggi"},{"brands":"MARVICO FOODS", "name":"marvico foods"},{"brands":"Mccormick", "name":"mccormick"},
+        {"brands":"MDEPOT", "name":"mdepot"},{"brands":"Members Mark", "name":"members mark"},{"brands":"Metagenic", "name":"metagenic"},{"brands":"Moi", "name":"moi"},
+        {"brands":"Mr Chef", "name":"mr chef"},{"brands":"Natures Choice", "name":"natures choice"},{"brands":"Nature Made", "name":"nature made"},{"brands":"Nestle", "name":"nestle"},
+        {"brands":"Nestle Maggi", "name":"nestle maggi"},{"brands":"Nielsen-Massey", "name":"nielsen-massey"},{"brands":"Olde Thompson", "name":"olde thompson"},{"brands":"Pantene", "name":"pantene"},
+        {"brands":"Princes", "name":"princes"},{"brands":"Red Ape Cinnamon", "name":"red ape cinnamon"},{"brands":"Remia", "name":"remia"},{"brands":"Royal Glow", "name":"royal glow"},
+        {"brands":"Royal Oats", "name":"royal oats"},{"brands":"Schwartz", "name":"schwartz"},{"brands":"Selina Naturally", "name":"selina naturally"},{"brands":"Shan", "name":"shan"},
+        {"brands":"SOW", "name":"sow"},{"brands":"Spice Cubes", "name":"spice cubes"},{"brands":"Tasty Cubes", "name":"tasty cubes"},{"brands":"Tasty Tom", "name":"tasty tom"},
+        {"brands":"The Fishmonger", "name":"the fishmonger"},{"brands":"Tiger", "name":"tiger"},{"brands":"Tiger", "name":"tiger"},{"brands":"Tiger Foods", "name":"tiger fooods"},
+        {"brands":"Terra", "name":"terra"},{"brands":"TOWG", "name":"towg"},{"brands":"Tropical Sun", "name":"tropical sun"},{"brands":"Trs", "name":"trs"},{"brands":"Vitalis", "name":"Vitalis"},
+        {"brands":"Vitals", "name":"vitals"},{"brands":"", "name":"Vnaturals"},{"brands":"vnaturals", "name":"vnaturals"},{"brands":"Watkins", "name":"watkins"}
+        
+    ],
+    "lightData":{
+        "pageHeader": "Spices & Seasoning | Buy and Sell Online",
+        "navigator": ["SuperStore","Spices and Seasonings"],
+        "routeData": ["/superstore","/spices-seasoning"]
+        }
+    
+}

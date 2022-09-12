@@ -1,0 +1,32 @@
+{
+    "RiceAndGrainstorecat": [
+        {"cat":"Cowpea", "link":"google.com"},
+         {"cat":"Lentils", "link":"facebook.com"},
+          {"cat":"Rice and Grains", "link":"twitter.com"},
+          {"cat":"Peas", "link":"twitter.com"}
+         ],
+    "RiceAndGrainstorebrands": [
+        {"brands":"507 Gold", "name":"507 gold"}, {"brands":"Aani", "name":"aani"}, {"brands":"Aeroplane", "name":"aeroplane"},{"brands":"Akash", "name":"akash"},
+        {"brands":"Auntie B", "name":"auntie b"},{"brands":"AVILAN", "name":"avilan"},  {"brands":"Ayoola Foods", "name":"ayoola foods"},{"brands":"Barm", "name":"barm"},
+        {"brands":"Bobs Red Mill", "name":"bobs red mill"},{"brands":"Buywholefoodsonline.co.uk", "name":"buywholefoodsonline.co.uk"},{"brands":"Carolina", "name":"carolina"},{"brands":"Carolina Boix", "name":"carolina boix"},
+        {"brands":"Chi", "name":"chi"},{"brands":"Coscharis", "name":"coscharis"},{"brands":"Crystal Gold", "name":"crystal gold"},{"brands":"Deluxe", "name":"deluxe"},
+        {"brands":"Dom Rej", "name":"dom rej"},{"brands":"Double T", "name":"double t"},{"brands":"Duru", "name":"duru"},{"brands":"Eat Water", "name":"eat water"},{"brands":"EBBOS", "name":"ebbos"},
+        {"brands":"Excellence", "name":"excellence"},{"brands":"Farrows", "name":"farrows"},{"brands":"Garden of Nueden foods", "name":"garden of nueden foods"},{"brands":"Gateway Foods", "name":"gateway foods"},{"brands":"Generic", "name":"generic"},
+        {"brands":"Gerbs", "name":"gerbs"},{"brands":"Gino", "name":"gino"},{"brands":"Golden Penny", "name":"golden penny"},{"brands":"HD Foods", "name":"hd foods"},
+        {"brands":"Hemani", "name":"hemani"},{"brands":"Herbsconnect", "name":"herbsconnect"},{"brands":"Honeywell", "name":"honeywell"},{"brands":"India Gate", "name":"india gate"},
+        {"brands":"General Craft", "name":"general craft"},{"brands":"Generic", "name":"generic"},{"brands":"Glow Half Cast", "name":"glow half cast"},{"brands":"Morphy Richards", "name":"morphy richards"},
+        {"brands":"Indomie", "name":"indomie"},{"brands":"Kelloggs", "name":"Kirkland Signature"},{"brands":"Knorr", "name":"knorr"},{"brands":"Laila", "name":"laila"},
+        {"brands":"Lal Qilla", "name":"lal qilla"},{"brands":"Lamb Weston", "name":"lamb weston"},{"brands":"Lamis", "name":"lamis"},{"brands":"Laurels Nature", "name":"laurels nature"},
+        {"brands":"Maharani", "name":"maharani"},{"brands":"Mamas Choice", "name":"mamas choice"},{"brands":"Mamas Pride", "name":"mamas pride"},{"brands":"Mama Gold", "name":"mama gold"},
+        {"brands":"Members Mark", "name":"members mark"},{"brands":"Mimee", "name":"mimee"},{"brands":"Natco", "name":"natco"},{"brands":"Oris", "name":"oris"},
+        {"brands":"Perchams", "name":"perchams"},{"brands":"Phronesis", "name":"phronesis"},{"brands":"Pride of India", "name":"pride of india"},{"brands":"Rice Mill", "name":"riice mill"},
+        {"brands":"Royal", "name":"royal"},{"brands":"Tiger", "name":"tiger"},{"brands":"Tilda", "name":"tilda"},{"brands":"Timeless Skincare", "name":"timeless skincare"},
+        {"brands":"Tropical Sun", "name":"tropical sun"},{"brands":"Trs", "name":"trs"},{"brands":"Uncle Bens", "name":"uncle bens"},{"brands":"White Pearl", "name":"white pearl"}
+    ],
+    "lightData":{
+        "pageHeader": "Rice and | Buy and Sell Online",
+        "navigator": ["SuperStore","Rice & Grains"],
+        "routeData": ["/superstore","/rice-grains"]
+        }
+    
+}

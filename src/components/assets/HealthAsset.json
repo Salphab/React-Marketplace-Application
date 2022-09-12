@@ -1,0 +1,41 @@
+{
+    "Healthstorecat":[
+        {"cat":"Beauty & Personal Care", "link":"google.com"},
+         {"cat":"Health Care", "link":"facebook.com"},
+          {"cat":"Medical Supplies & Equipment", "link":"twitter.com"},
+          {"cat":"Sexual Wellness", "link":"twitter.com"},
+          {"cat":"Sports Nutrition", "link":"twitter.com"},
+          {"cat":"Vitamins & Dietary Supplements", "link":"twitter.com"},
+          {"cat":"Wellness &  Relaxation", "link":"twitter.com"}
+         ],
+    "Healthstorebrands":[
+        {"brands":"A4 Fashion", "name":"a4 fashion"}, {"brands":"Afnan", "name":"afnan"}, {"brands":"Aichun Beauty", "name":"aichun beauty"},{"brands":"ALHAMBRA", "name":"alhambra"},
+        {"brands":"Andrea", "name":"andrea"},{"brands":"Armaf", "name":"armaf"},  {"brands":"Aunt Jackie", "name":"aunt jackie"},{"brands":"Avon", "name":"avon"},
+        {"brands":"Bath &  Body Works", "name":"bath & body works"},{"brands":"Beauty Formulas", "name":"beauty formulas"},{"brands":"Bismid Cosmetics", "name":"bismid cosmetics"},{"brands":"Brando", "name":"brando"},
+        {"brands":"Calvin Klein", "name":"calvin klein"},{"brands":"Cantu", "name":"cantu"},{"brands":"Carolina Herrera", "name":"carolina herrera"},{"brands":"Cerave", "name":"cerave"},
+        {"brands":"Cetaphil", "name":"cetaphil"},{"brands":"Chaoba", "name":"chaoba"},{"brands":"Clara Vida", "name":"clara vida"},{"brands":"Cmaadu", "name":"cmaadu"},{"brands":"Cozing", "name":"cozing"},
+        {"brands":"Disaar", "name":"disaar"},{"brands":"Dove", "name":"dove"},{"brands":"Dr Teal", "name":"dr teal"},{"brands":"Elf", "name":"elf"},{"brands":"Elizabeth Arden", "name":"elizabeth arden"},
+        {"brands":"Empire", "name":"empire"},{"brands":"Fair & White", "name":"fair & white"},{"brands":"Fair & White Paris", "name":"fair & white paris"},{"brands":"Fashion", "name":"fashion"},
+        {"brands":"Filipinos", "name":"filipinos"},{"brands":"Fragrance World", "name":"fragrance world"},{"brands":"Franck Olivier", "name":"franck olivier"},{"brands":"Garnier", "name":"garnier"},
+        {"brands":"General Craft", "name":"general craft"},{"brands":"Generic", "name":"generic"},{"brands":"Glow Half Cast", "name":"glow half cast"},{"brands":"Morphy Richards", "name":"morphy richards"},
+        {"brands":"Gluta", "name":"gluta"},{"brands":"Gluta White", "name":"gluta white"},{"brands":"Goli Nutrition", "name":"goli nutrition"},{"brands":"Hair Now Now", "name":"hair now now"},
+        {"brands":"Havex Collections", "name":"havex collection"},{"brands":"Healthway", "name":"healthway"},{"brands":"Hemani", "name":"hemani"},{"brands":"Home", "name":"home"},
+        {"brands":"Kedi", "name":"kedi"},{"brands":"Khalis", "name":"khalis"},{"brands":"Khufuzi", "name":"khufuzi"},{"brands":"Kiki New Gain", "name":"kiki new gain"},
+        {"brands":"Longrich", "name":"longrich"},{"brands":"Kiss Beauty", "name":"kiss beauty"},{"brands":"Maestro Makeover", "name":"maestro makeover"},{"brands":"Mally", "name":"mally"},
+        {"brands":"Nature Field", "name":"nature field"},{"brands":"Neolife", "name":"neolife"},{"brands":"Neutrogena", "name":"neutrogena"},{"brands":"No", "name":"no"},
+        {"brands":"Nova", "name":"nova"},{"brands":"Now Foods", "name":"now foods"},{"brands":"Nutrabio", "name":"nutrabio"},{"brands":"Olay", "name":"olay"},
+        {"brands":"Omron", "name":"omron"},{"brands":"Ors", "name":"ors"},{"brands":"Ozy & Ozera", "name":"ozy & ozera"},{"brands":"Paco Rabanne", "name":"paco rabanne"},
+        {"brands":"Palmer", "name":"palmer"},{"brands":"Paris Corner", "name":"paris corner"},{"brands":"Pei Mei", "name":"pei mei"},{"brands":"Piping Rock", "name":"piping rock"},
+        {"brands":"Prestige", "name":"prestige"},{"brands":"Purec Egyptian", "name":"purec egyptian"},{"brands":"Puritans Pride", "name":"puritans pride"},{"brands":"Qei + Paris", "name":"qei + paris"},
+        {"brands":"Riggs", "name":"riggs"},{"brands":"Rimmel London", "name":"rimmel london"},{"brands":"Roushun", "name":"roushun"},{"brands":"Roushun", "name":"roushun"},
+        {"brands":"Rimmel London", "name":"rimmel london"},{"brands":"Roushun", "name":"roushun"},{"brands":"Schwarzkopf", "name":"schwarzkopf"},{"brands":"Shea Moisture", "name":"shea moisture"},
+        {"brands":"simple", "name":"simple"},{"brands":"Skin Doctor", "name":"skin doctor"},{"brands":"Smart Collection", "name":"smart collection"},{"brands":"SoftSheen Carson", "name":"softsheen carson"},
+        {"brands":"St Ives", "name":"st ives"},{"brands":"Storm", "name":"storm"},{"brands":"Sunny Isle", "name":"sunny isle"},{"brands":"Sure", "name":"sure"},
+        {"brands":"Vaseling", "name":"vaseling"},{"brands":"Vitabiotics", "name":"vitabiotics"}
+    ],
+    "lightData":{
+        "pageHeader": "Home and office | Buy and Sell Online",
+        "navigator": "Home and Office",
+        "routeData": "/home-office"
+        }    
+}

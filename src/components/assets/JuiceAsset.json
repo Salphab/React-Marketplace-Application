@@ -1,0 +1,21 @@
+{
+    "Juicestorecat":[
+        {"cat":"Fruit Juice", "link":"google.com"},
+        {"cat":"Lemonade", "link":"facebook.com"},
+        {"cat":"Sparkling Juice", "link":"facebook.com"},
+        {"cat":"Vegetable Joice", "link":"facebook.com"}
+        ],
+    "Juicestorebrands":[
+        {"brands":"5Alive", "name":"5alive"}, {"brands":"Arizona", "name":"arizona"},{"brands":"Capri Sun", "name":"capri sun"}, {"brands":"Chi", "name":"chi"},{"brands":"Cway", "name":"cway"},
+        {"brands":"Edmark", "name":"edmark"},{"brands":"Eva", "name":"eva"},  {"brands":"FENTIMANS", "name":"fentimans"},{"brands":"Generic", "name":"generic"},{"brands":"Ocean Spray", "name":"ocean spray"},
+        {"brands":"Oragnics", "name":"organics"},{"brands":"Piping Rock", "name":"piping rock"},  {"brands":"Realemon", "name":"realemon"},{"brands":"Ribena", "name":"ribena"},{"brands":"Schweppes", "name":"schweppes"},
+        {"brands":"Snapples", "name":"snapples"},{"brands":"Stute", "name":"stute"},  {"brands":"Tomi", "name":"tomi"},{"brands":"Trs", "name":"trs"},{"brands":"Twix", "name":"twix"},
+        {"brands":"Vigo", "name":"vigo"},{"brands":"Welchs", "name":"welchs"},  {"brands":"Wilsons", "name":"wilsons"},{"brands":"ZIZA", "name":"ziza"}
+    ],
+    "lightData":{
+        "pageHeader": "Juices | Buy and Sell Online",
+        "navigator": ["SuperStore","Juices"],
+        "routeData": ["/superstore","/juice"]
+        }
+    
+}

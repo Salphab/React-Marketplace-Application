@@ -1,0 +1,31 @@
+{
+    "Homestorecat":[
+        {"cat":"Small & Cooking Appliances", "link":"google.com"},
+         {"cat":"Arts,  Craft & Sewing", "link":"facebook.com"},
+          {"cat":"Home & Office Furniture", "link":"twitter.com"},
+          {"cat":"Home & Kitchen", "link":"twitter.com"},
+          {"cat":"Office Products", "link":"twitter.com"},
+          {"cat":"Large Appliances & Home Improvement", "link":"twitter.com"}
+         ],
+   "Homestorebrands":[
+        {"brands":"A4 Fashion", "name":"a4 fashion"}, {"brands":"AKAI", "name":"akai"}, {"brands":"AKT", "name":"akt"},{"brands":"Ambiano", "name":"ambiano"},
+        {"brands":"Andrakk", "name":"andrakk"},{"brands":"Art & Craft", "name":"art & craft"},{"brands":"Binatone", "name":"binatone"},{"brands":"Black", "name":"black"},
+        {"brands":"Bounabio", "name":"bounabio"},{"brands":"Breville", "name":"breville"},{"brands":"Dessini", "name":"dessini"},{"brands":"Eurosoonic", "name":"eurosonic"},
+        {"brands":"Decdeal", "name":"decdeal"},{"brands":"Exclusive", "name":"exclusive"},{"brands":"Exotic Wallpapers", "name":"exotic wallpaper"},{"brands":"Futina", "name":"futina"},
+        {"brands":"Generic", "name":"generic"},{"brands":"Grothen", "name":"grothen"},{"brands":"Haier Thermocool", "name":"haier thermocool"},{"brands":"Hand Tools", "name":"hand tools"},{"brands":"Handy", "name":"handy"},
+        {"brands":"Hisense", "name":"hisense"},{"brands":"Hoffner", "name":"hoffner"},{"brands":"Ikea", "name":"ikea"},{"brands":"Intex", "name":"intex"},{"brands":"Ingco", "name":"ingco"},
+        {"brands":"intex", "name":"intex"},{"brands":"Kenstar", "name":"kenstar"},{"brands":"Kenwood", "name":"kenwood"},{"brands":"Kinelco", "name":"kinelco"},
+        {"brands":"Kitchen Genie", "name":"kitchen genie"},{"brands":"LG", "name":"lg"},{"brands":"Lixada", "name":"lixada"},{"brands":"Lontor", "name":"lontor"},
+        {"brands":"Maxi", "name":"maxi"},{"brands":"Maxmech", "name":"maxmech"},{"brands":"Midea", "name":"midea"},{"brands":"Morphy Richards", "name":"morphy richards"},
+        {"brands":"Panasonic", "name":"panasonic"},{"brands":"Peripage", "name":"peripage"},{"brands":"Pinnacle", "name":"pinnacle"},{"brands":"Qasa", "name":"qasa"},
+        {"brands":"Pyramid", "name":"pyramid"},{"brands":"Porland", "name":"porland"},{"brands":"Quality", "name":"quality"},{"brands":"Russel Hobbs", "name":"russel hobbs"},
+        {"brands":"ScanFrost", "name":"scanfrost"},{"brands":"Scarlet", "name":"scarlet"},{"brands":"Silver Crest", "name":"silver crest"},{"brands":"Tower", "name":"tower"},
+        {"brands":"Vitafoam", "name":"vitafoam"},{"brands":"VTCL", "name":"vtcl"},{"brands":"Sonik", "name":"sonik"},{"brands":"Schneider Electric", "name":"schneider electric"}
+    ],
+    "lightData":{
+        "pageHeader": "Home and office | Buy and Sell Online",
+        "navigator": "Home and Office",
+        "routeData": "/home-office"
+        }
+    
+}

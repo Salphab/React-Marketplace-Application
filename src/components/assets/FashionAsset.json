@@ -1,0 +1,43 @@
+{
+    "Fashioncat" : [
+        {"cat":"Men Fashion", "link":"google.com"},
+         {"cat":"Women Fashion", "link":"facebook.com"},
+          {"cat":"Watches", "link":"twitter.com"},
+          {"cat":"Textiles", "link":"twitter.com"},
+          {"cat":"Fashion Bundles", "link":"twitter.com"},
+          {"cat":"Luggages and Travel Gear", "link":"twitter.com"},
+          {"cat":"Wedding Dresses", "link":"twitter.com"},
+          {"cat":"Under 5k Shop", "link":"twitter.com"},
+          {"cat":"Gentlemen Corner", "link":"twitter.com"},
+          {"cat":"New Arrivals", "link":"twitter.com"},
+          {"cat":"Arewa Shop", "link":"twitter.com"},
+          {"cat":"Free Shipping", "link":"twitter.com"}
+         ],
+    "Fashionbrands":[
+        {"brands":"24/7 FASHION", "name":"24/7 fashion"},{"brands":"A4 Fashion", "name":"a4 fashion"},  {"brands":"Addax", "name":"addax"},{"brands":"Adidas", "name":"adidas"},
+        {"brands":"AISE TESETTUR by Modanisa", "name":"aise tesettur by modanisa"},{"brands":"Aj Fashion", "name":"aj fashion"},{"brands":"Alia By Modanisa", "name":"alia by modanisa"},{"brands":"Ankara", "name":"ankara"},
+        {"brands":"Aomei", "name":"aomei"},{"brands":"Aq General", "name":"aq general"},{"brands":"Big Tree", "name":"big tree"},{"brands":"Camparo", "name":"camparo"},{"brands":"Calvin Klein", "name":"calvin klein"},
+        {"brands":"Candy Kimvin", "name":"candy kimvin"},{"brands":"Canister", "name":"canister"},{"brands":"Cao", "name":"cao"},{"brands":"Carters", "name":"carters"},{"brands":"Chenxi", "name":"chenxi"},{"brands":"Mark and Spencer", "name":"mark and spencer"},
+        {"brands":"Chrysolite Designs", "name":"chrysolite"},{"brands":"Citizens", "name":"citizens"},{"brands":"Clara Vida", "name":"clara vida"},{"brands":"LUX", "name":"lux"},{"brands":"Clarks", "name":"clarks"},{"brands":"Colins", "name":"colins"},
+        {"brands":"Cool Watch", "name":"cool watch"},{"brands":"Curren", "name":"curren"},{"brands":"DAGi", "name":"dagi"},{"brands":"Danami", "name":"danami"},{"brands":"Defacto", "name":"defacto"},{"brands":"DesubClassic", "name":"desubclassic"},
+        {"brands":"Ecardin by Modanisa", "name":"ecardin by modanisa"},{"brands":"Fashion", "name":"fashion"},{"brands":"FeiraDeVaidade", "name":"feiradevaidade"},{"brands":"Flagesrio", "name":"flagesrio"},{"brands":"Fngeen", "name":"fngeen"},
+        {"brands":"Forcast", "name":"forecast"},{"brands":"Forsining", "name":"forsining"},{"brands":"Fossil", "name":"fossil"},{"brands":"Gaupucean", "name":"gaupucean"},{"brands":"Generic", "name":"generic"},{"brands":"Geneva", "name":"geneva"},
+        {"brands":"George", "name":"george"},{"brands":"Ghali", "name":"ghali"},{"brands":"Goods Boys", "name":"goods boys"},{"brands":"HangErFeng", "name":"hangerfeng"},{"brands":"Helenred", "name":"helenred"},{"brands":"Ifit Wear", "name":"ifit wear"},
+        {"brands":"Incerun", "name":"incerun"},{"brands":"Kademan", "name":"kademan"},{"brands":"Keep Moving", "name":"keep moving"},{"brands":"Khufuzi", "name":"khufuzi"},{"brands":"Kingnuos", "name":"kingnuos"},{"brands":"Kipling", "name":"kipling"},
+        {"brands":"LIGE", "name":"lige"},{"brands":"Longbo", "name":"longbo"},{"brands":"LookWorld", "name":"lookworld"},{"brands":"Luxury Collection", "name":"luxury collection"},{"brands":"Maestro Makeover", "name":"maestro makeover"},
+        {"brands":"Mauton", "name":"mauton"},{"brands":"Megir", "name":"megir"},{"brands":"Mini Focus", "name":"mini focus"},{"brands":"Naviforce", "name":"naviforce"},{"brands":"Nibosi", "name":"nibosi"},{"brands":"Nike", "name":"nike"},{"brands":"Zara", "name":"zara"},
+        {"brands":"Oulm", "name":"oulm"},{"brands":"Por La Cara by Modanisa", "name":"por la cara by modanisa"},{"brands":"Praaaempire", "name":"praaaempire"},{"brands":"Profound Wedding Cards", "name":"profound wedding cards"},{"brands":"Polo Ralph Lauren", "name":"polo ralph lauren"},
+        {"brands":"Refka by Modanisa", "name":"refka by modanisa"},{"brands":"Sanda", "name":"sanda"},{"brands":"SANUME", "name":"sanume"},{"brands":"Senori", "name":"senori"},{"brands":"Skmei", "name":"skmei"},{"brands":"Slazenger", "name":"slazenger"},
+        {"brands":"Smael", "name":"smael"},{"brands":"SocNoDn", "name":"socnodn"},{"brands":"Sunsky", "name":"sunsky"},{"brands":"Swiss Polo", "name":"swiss polo"},{"brands":"Synoke", "name":"synoke"},{"brands":"Tauntte", "name":"tauntte"},
+        {"brands":"Tevise", "name":"tevise"},{"brands":"The Childrens Place", "name":"the children place"},{"brands":"Tidog", "name":"tidog"},{"brands":"Titan Duurags", "name":"titan duurags"},{"brands":"Tofisa by Modanisa", "name":"tofisa by modanisa"},
+        {"brands":"Tommy by Modanisa", "name":"tommy by modanisa"},{"brands":"Tuva by Modainisa", "name":"tuva by modainisa"},{"brands":"Varrati", "name":"varrati"},{"brands":"VEITHDIA", "name":"veithdia"},{"brands":"VIKIKE", "name":"vikike"},
+        {"brands":"VRAIEMODE", "name":"vraiemode"},{"brands":"Winner", "name":"winner"},{"brands":"WWOOR", "name":"wwoor"},{"brands":"XCST-BNZHO", "name":"xcst-bnzho"},{"brands":"Yazole", "name":"yazole"},
+        {"brands":"Zanzea", "name":"zanzea"},{"brands":"Zenane by Modanisa", "name":"zenane by modanisa"}
+    ],
+    "lightData": {
+        "pageHeader": "Fashion| Buy and Sell Online",
+        "navigator": "Fasion",
+        "routeData": "/fashion"
+        }
+    
+}

@@ -1,0 +1,40 @@
+{
+    "Cannedstorecat": [
+        {"cat":"Beer", "link":"google.com"},
+         {"cat":"Champagne & Sparkling Wine", "link":"facebook.com"},
+          {"cat":"Spirit & Liquors", "link":"twitter.com"},
+          {"cat":"Wine", "link":"twitter.com"}
+         ],
+    "Cannedstorebrands":[
+        {"brands":"4th Street", "name":"4th"}, {"brands":"Absolut", "name":"absolut"}, {"brands":"Action", "name":"actioln"},{"brands":"ALVISA", "name":"alvisa"},
+        {"brands":"Au", "name":"au"},{"brands":"AZNAURI", "name":"aznauri"},  {"brands":"Bacardi", "name":"bacardi"},{"brands":"Baron", "name":"baron"},
+        {"brands":"Becks", "name":"becks"},{"brands":"Best", "name":"best"},{"brands":"BLACK & BLUE", "name":"black & blue"},{"brands":"Blackstone", "name":"blackstone"},
+        {"brands":"Blue Nun", "name":"blue nun"},{"brands":"Bombay", "name":"bombay"},{"brands":"Bon Voyage", "name":"bon voyage"},{"brands":"Bree", "name":"bree"},
+        {"brands":"Calypso", "name":"calypso"},{"brands":"Camino", "name":"camino"},{"brands":"Campari", "name":"campari"},{"brands":"Carvo", "name":"carvo"},{"brands":"Castillo", "name":"castillo"},
+        {"brands":"Chamdor", "name":"chamdor"},{"brands":"Chivas Regal", "name":"chivas regal"},{"brands":"Cinzano", "name":"cinzano"},{"brands":"Ciroc", "name":"Ciroc"},{"brands":"Claymore", "name":"claymore"},
+        {"brands":"DUSSE", "name":"dusse"},{"brands":"Dead Mans Finger", "name":"dead  mans finger"},{"brands":"Dewars", "name":"dewar"},{"brands":"Eisberg", "name":"eisberg"},
+        {"brands":"Eristoff", "name":"eristoff"},{"brands":"Eva", "name":"eva"},{"brands":"Fidossi", "name":"fidossi"},{"brands":"Four Cousins", "name":"four cousins"},
+        {"brands":"Freixenet", "name":"fraixenet"},{"brands":"Generic", "name":"generic"},{"brands":"Glenfiddich", "name":"glenfiddich"},{"brands":"Goldenberg", "name":"goldenberg"},
+        {"brands":"Golden Ice", "name":"golden ice"},{"brands":"Grey Goose", "name":"grey goose"},{"brands":"Guinness", "name":"guinness"},{"brands":"Havana", "name":"havana"},
+        {"brands":"Hendricks gin",  "name":"hendrick gin"},{"brands":"Heyman", "name":"heyman"},{"brands":"J & W Premium", "name":"j & w ppremium"},{"brands":"Jack Daniels", "name":"jack daniels"},
+        {"brands":"Jameson", "name":"jameson"},{"brands":"Jelzin", "name":"jelzin"},{"brands":"John Bannermans", "name":"john bannermans"},{"brands":"johnnie Walker", "name":"johnnie walker"},
+        {"brands":"Kolaq  Alagbo", "name":"kolaq alagbo"},{"brands":"Label 5", "name":"lable 5"},{"brands":"Laplandia", "name":"laplandia"},{"brands":"Longrich", "name":"longrich"},
+        {"brands":"LORDS", "name":"lords"},{"brands":"Macallan", "name":"macallan"},{"brands":"MacARTHURS", "name":"macarthurs"},{"brands":"Magic Moments", "name":"magic moments"},
+        {"brands":"Martell", "name":"martell"},{"brands":"Martini", "name":"martini"},{"brands":"Masterpiece", "name":"masterpiece"},{"brands":"Meridian", "name":"meridian"},
+        {"brands":"Moet & chandon", "name":"moet & chandon"},{"brands":"Monkey Shoulder", "name":"monkey shoulder"},{"brands":"Monsieur Pascal", "name":"monsieur pascal"},{"brands":"Mouton Cadet", "name":"mouton cadet"},
+        {"brands":"Napoj Z Celow", "name":"napoj z celow"},{"brands":"Napoleon", "name":"napoleon"},{"brands":"Ocean Beach", "name":"ocean beach"},{"brands":"Old Smuggler", "name":"old smuggler"},
+        {"brands":"Olmeca", "name":"olmeca"},{"brands":"Orijin", "name":"orijin"},{"brands":"Pel", "name":"pel"},{"brands":"Pure Heaven", "name":"pure heaven"},
+        {"brands":"Radico", "name":"radico"},{"brands":"Regal", "name":"regal"},{"brands":"Rose", "name":"rose"},{"brands":"Scots Highland", "name":"scot highland"},
+        {"brands":"Seagrams", "name":"seagrams"},{"brands":"Seamans", "name":"seamans"},{"brands":"Sir Edwards", "name":"sir edwards"},{"brands":"SKIRT", "name":"SKIRT"},
+        {"brands":"Smirnoff", "name":"smirnoff"},{"brands":"St.Lauren", "name":"st.lauren"},{"brands":"Star", "name":"star"},{"brands":"Stella Artois", "name":"stella artois"},
+        {"brands":"St Remy", "name":"st remy"},{"brands":"THE FAMOUS GROUSE", "name":"the famous grouse"},{"brands":"The original", "name":"the original"},{"brands":"Toma", "name":"toma"},
+        {"brands":"Trophy Stout", "name":"trophy stout"},{"brands":"Upperrom", "name":"upperroom"},{"brands":"Vodka", "name":"vodka"},{"brands":"White Horse", "name":"white horse"},
+        {"brands":"White Neill", "name":"white neill"},{"brands":"William Lawsons", "name":"William Lawsons"},{"brands":"Wolf Blass", "name":"Wolf Blass"}
+    ],
+    "lightData":{
+        "pageHeader": "Canned and Package Food | Buy and Sell Online",
+        "navigator": ["SuperStore","Canned and Package Food"],
+        "routeData": ["/superstore","/canned-package-food"]
+        }
+    
+}

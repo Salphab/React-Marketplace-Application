@@ -1,0 +1,17 @@
+{
+    "Noodlestorecat":[
+        {"cat":"Pasta and Macroni", "link":"google.com"},
+         {"cat":"Noodles", "link":"facebook.com"}
+         ],
+    "Noodlestorebrands":[
+        {"brands":"Bua", "name":"bua"}, {"brands":"Chikki", "name":"chikki"},{"brands":"Cherie", "name":"cherie"}, {"brands":"Eat Water", "name":"eat water"},{"brands":"Generic", "name":"generic"},
+        {"brands":"Golden Penny", "name":"golden penny"},{"brands":"Indomie", "name":"indomie"},  {"brands":"Minimie", "name":"minimie"},{"brands":"Indomitables", "name":"indomitables"}
+        
+    ],
+    "lightData":{
+        "pageHeader": "Pasta & Noodles | Buy and Sell Online",
+        "navigator": ["SuperStore","Pasta & Noodles"],
+        "routeData": ["/superstore","/pasta-noodles"]
+        }
+    
+}

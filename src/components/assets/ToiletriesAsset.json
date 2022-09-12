@@ -1,0 +1,50 @@
+{
+    "Toiletriesstorecat": [
+        {"cat":"All purpose Cleaner", "link":"google.com"},
+         {"cat":"Bathroom Cleaners", "link":"facebook.com"},
+         {"cat":"Bleach and Toilet Wash", "link":"facebook.com"},
+          {"cat":"Carpet Cleaners & deodorizers", "link":"twitter.com"},
+          {"cat":"Cleaning Tools", "link":"twitter.com"},
+          {"cat":"Disinfectant Wipes", "link":"twitter.com"},
+          {"cat":"Drain Opener", "link":"twitter.com"},
+          {"cat":"Floor Cleaners", "link":"twitter.com"},
+          {"cat":"Glass Cleaners", "link":"twitter.com"},
+          {"cat":"Kitchen Cleaners", "link":"twitter.com"},
+          {"cat":"Metal Polishes", "link":"twitter.com"},
+          {"cat":"Paper Towels", "link":"twitter.com"},
+          {"cat":"Septic Treatments", "link":"twitter.com"},
+          {"cat":"Upholstery Cleaners", "link":"twitter.com"},
+          {"cat":"Wood Polish & Care", "link":"twitter.com"}
+         ],
+    "Toiletriesstorebrands":[
+        {"brands":"2Sure", "name":"2sure"}, {"brands":"Air Oma", "name":"air oma"}, {"brands":"Ajax", "name":"ajax"},{"brands":"AJVF", "name":"AJVF"},
+        {"brands":"Ambi Pur", "name":"ambi pur"},{"brands":"Ariel", "name":"ariel"},  {"brands":"Asantee", "name":"asantee"},{"brands":"Astonish", "name":"astonish"},
+        {"brands":"Avila", "name":"avila"},{"brands":"Bubble", "name":"bubble"},{"brands":"Camry", "name":"camry"},{"brands":"Chuz", "name":"chuz"},
+        {"brands":"Cif", "name":"cif"},{"brands":"Cleanze", "name":"cleanze"},{"brands":"Clean Zone", "name":"clean zone"},{"brands":"Clorox", "name":"clorox"},
+        {"brands":"Closeup", "name":"closeup"},{"brands":"Commando", "name":"commando"},{"brands":"DD Force", "name":"dd force"},{"brands":"DEEP ACTION", "name":"deep action"},{"brands":"Ducros", "name":"ducros"},
+        {"brands":"Deluxe", "name":"deluxe"},{"brands":"Dettol", "name":"dettol"},{"brands":"Diva", "name":"diva"},{"brands":"Dr Beckmann", "name":"dr beckman"},{"brands":"Duzzit", "name":"duzzit"},
+        {"brands":"Easy On", "name":"easy on"},{"brands":"Ethereum", "name":"ethereum"},{"brands":"Fabuloso", "name":"fabuloso"},{"brands":"Fairy", "name":"fairy"},
+        {"brands":"Familia", "name":"familia"},{"brands":"Fashion", "name":"fashion"},{"brands":"Femnix", "name":"femnix"},{"brands":"Fexlon", "name":"fexlon"},
+        {"brands":"Gbc", "name":"gbc"},{"brands":"Generic", "name":"generic"},{"brands":"GIGA 630", "name":"giga 630"},{"brands":"Gongoni", "name":"gongoni"},
+        {"brands":"Mama Good", "name":"mama good"},{"brands":"Green Shield", "name":"green shield"},{"brands":"Harpic", "name":"harpic"},{"brands":"Hemanic", "name":"hemanic"},
+        {"brands":"Home Etcetera",  "name":"home etcetera"},{"brands":"Huggies", "name":"huggies"},{"brands":"Hurricane", "name":"hurricane"},{"brands":"Hycolin", "name":"hycolin"},
+        {"brands":"Hypo", "name":"hypo"},{"brands":"Idole", "name":"idole"},{"brands":"Ikea", "name":"ikea"},{"brands":"Izal", "name":"izal"},
+        {"brands":"Jik", "name":"jik"},{"brands":"Joie", "name":"joie"},{"brands":"Kleansol", "name":"kleansol"},{"brands":"Lavender", "name":"lavender"},
+        {"brands":"Lb", "name":"lb"},{"brands":"Limpo Clean", "name":"limpo clean"},{"brands":"Listerine", "name":"listerine"},{"brands":"LOREK", "name":"lorek"},
+        {"brands":"Lu Blue", "name":"lu blue"},{"brands":"Lubrex", "name":"lubrex"},{"brands":"Lysol", "name":"lysol"},{"brands":"Magik", "name":"magik"},
+        {"brands":"Meko", "name":"meko"},{"brands":"Miele", "name":"miele"},{"brands":"Milton", "name":"milton"},{"brands":"MORIGAD", "name":"morigad"},
+        {"brands":"Morison", "name":"morison"},{"brands":"Mr.Sheen", "name":"mr.sheen"},{"brands":"Mr Plumber", "name":"Mr Plumber"},{"brands":"Mr Valet", "name":"mr valet"},
+        {"brands":"Persil", "name":"persil"},{"brands":"Pine Sol", "name":"pine sol"},{"brands":"Plastic", "name":"plastic"},{"brands":"Pride", "name":"pride"},
+        {"brands":"Royal Markets", "name":"royal markets"},{"brands":"Savlon", "name":"savlon"},{"brands":"Scotch Brite", "name":"scotch brite"},{"brands":"Sensodyne", "name":"sensodyne"},
+        {"brands":"Shield", "name":"shield"},{"brands":"SNIPER", "name":"sniper"},{"brands":"Somkolch", "name":"somkolch"},{"brands":"Sunlight", "name":"sunlight"},
+        {"brands":"Tchibo", "name":"tchibo"},{"brands":"Tetmosol", "name":"tetmosol"},{"brands":"Texxon", "name":"texxon"},{"brands":"UB", "name":"ub"},
+        {"brands":"Vileda", "name":"vileda"},{"brands":"Trs", "name":"trs"},{"brands":"Wet Onces", "name":"wet onces"},{"brands":"Windolene", "name":"windolene"},
+        {"brands":"Wisdon", "name":"wisdom"},{"brands":"Zing+", "name":"Zing+"}
+    ],
+    "lightData":{
+        "pageHeader": "Toiletries | Buy and Sell Online",
+        "navigator": ["SuperStore","Toiletries"],
+        "routeData": ["/superstore","/toiletries"]
+        }
+    
+}

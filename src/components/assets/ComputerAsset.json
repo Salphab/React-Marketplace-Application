@@ -1,0 +1,29 @@
+{
+    "Computerstorecat":[
+        {"cat":"Computing Accessories", "link":"google.com"},
+         {"cat":"Printers, Scanner and Accessories", "link":"facebook.com"},
+          {"cat":"Laptops", "link":"twitter.com"},
+          {"cat":"Wifi and Networking", "link":"twitter.com"},
+          {"cat":"Computer Software", "link":"twitter.com"},
+          {"cat":"Desktop and Monitors", "link":"twitter.com"},
+          {"cat":"PC Gaming", "link":"twitter.com"},
+          {"cat":"Projectors and Accessories", "link":"twitter.com"},
+          {"cat":"Wifi and Networking", "link":"twitter.com"},
+          {"cat":"Projectors and Accessories", "link":"twitter.com"}
+         ],
+    "Computerstorebrands":[
+        {"brands":"HP", "name":"hp"}, {"brands":"Longitech", "name":"longitech"}, {"brands":"Microsoft", "name":"miceosoft"},{"brands":"SanDisk", "name":"sandisk"},
+        {"brands":"Dell", "name":"dell"},{"brands":"Lenovo", "name":"lenovo"},  {"brands":"Canon", "name":"canon"},{"brands":"Apple", "name":"apple"},
+        {"brands":"Seagate", "name":"seagate"},{"brands":"Asus", "name":"asus"},{"brands":"Havit"},{"brands":"Samsung",  "name":"samsung"},
+        {"brands":"Western Digital",  "name":"western digital"},{"brands":"Epson"},{"brands":"A&S", "name":"a&s"},{"brands":"Transcend", "name":"transcend"},
+        {"brands":"Toshiba", "name":"toshiba"},{"brands":"Acer",  "name":"acer"},{"brands":"ZTE",  "name":"zte"},{"brands":"Baseus",  "name":"baseus"},{"brands":"Huawei",  "name":"huawei"},
+        {"brands":"LG", "name":"lg"},{"brands":"Kaspersky",  "name":"kaspersky"},{"brands":"Adobe",  "name":"adobe"},{"brands":"Sony", "name":"sony"},{"brands":"Norton",  "name":"norton"},
+        {"brands":"BLUE GATE", "name":"blue gate"},{"brands":"McAfee", "name":"mcafee"},{"brands":"Lacie",  "name":"lacie"},{"brands":"Black Magic",  "name":"black magic"}
+    ],
+    "lightData":{
+        "pageHeader": "Laptop and Desktop | Buy and Sell Online",
+        "navigator": "Laptop and Desktop",
+        "routeData": "/computer-laptop"
+        }
+    
+}
