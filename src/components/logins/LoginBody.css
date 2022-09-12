@@ -1,0 +1,607 @@
+@media (min-width:1217px){
+.logmaincon{
+    position:relative;
+    top:0px;
+    width: 100%;
+    max-width: 100%;
+    height:600px;
+    background-image: url(../../../src/exihibition/pexels-veeterzy-303383.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: -18px;
+}
+.logmaincon .logsub{
+    position:relative;
+    top:5%;
+    left:35%;   
+    width:100%;
+    max-width:28%;
+    height:90%;
+    border-radius: 5px;
+    backdrop-filter: blur(3px);
+    background-color: rgba(97, 97, 97, 0.7);
+    
+
+}
+.logmaincon form{
+    position: relative;
+    left:0px;
+    top:4%;
+    width:100%;
+    max-width: 100%;
+    height: 50%;
+}
+.logmaincon form input{
+    position: relative;
+    left:3%;
+    width:100%;
+    max-width: 92%;
+    height:13%;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 0.5px solid grey;
+}
+.logmaincon form input:focus{
+    outline:none;
+}
+.logmaincon form label{
+    position: relative;
+    font-size: 0.9rem;
+    font-weight: 600;
+    left:4%;
+    top:-4%;
+}
+.logmaincon form input::placeholder{
+    position: relative;
+    left:0%;
+    font-size: 0.9rem;
+}
+.logheader{
+    position:relative;
+    left:5%;
+    top:0px;
+    width:100%;
+    max-width: 90%;
+    height: 10%;
+    color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0px 1px black;
+
+}
+.logheader h1{
+    position: relative;
+    top:25%;    
+    color:black;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#logsubmit{
+    position: relative;
+    top:20px;
+    left:35%;
+    width: 100%;
+    border-radius: 3px;
+    max-width: 30%;
+    background-color:rgb(4, 170, 106);
+    color:white;
+    font-size: 1rem;
+}
+#logsubmit:hover{
+    background-color: rgb(0, 128, 79);
+}
+#forgetP{
+    position:absolute;
+    left:35%;
+    top:45%;
+    font-size: 0.8rem;
+
+}
+#forgetP:hover{
+    color:rgb(252, 89, 89);
+}
+.logmaincon .bottomdiv{
+    position: relative;
+    top:15px;
+    width:100%;
+    max-width: 99.5%;
+    height:34.5%;    
+}
+.bottomdiv p{
+    position: relative;
+    top:-30px;
+    text-align: center;
+}
+.bottomdiv #signup{
+    position:relative;
+    left:20%;
+    top:42%;
+    color: black;
+}
+.bottomdiv #signup:hover{
+    color:red;
+}
+#appleconnect{
+    position: relative;
+    display: flex;
+    left:20%;
+    top:-28%;
+    width: 100%;
+    max-width: 60%;
+    border-radius: 3px;
+    height: 18%;
+    background-color: black;
+    margin-bottom: 10px;
+}
+#appleconnect p{
+    position: relative;
+    top:-27%;
+    left: 18%;
+    font-size: 0.9rem;
+    color:white;
+}
+#appleconnect i{
+    position: relative;
+    left: 16%;
+    font-size: 1.3rem;
+    top:20%;
+    color:white;
+    margin-right:4px;
+}
+#googleconnect{
+    position: relative;
+    display: flex;
+    left:20%;
+    top:-25%;
+    width: 100%;
+    border: 1px solid black;
+    max-width: 60%;
+    border-radius: 3px;
+    height: 18%;
+    background-color: none;
+    margin-bottom: 10px;
+}
+#googleconnect p{
+    position: relative;
+    top:-27%;
+    left: 18%;
+    font-size: 0.9rem;
+    color:black;
+}
+#googleconnect img{
+    position: relative;
+    left: 16%;
+    width: 100%;
+    max-width: 6%;
+    height: 50%;
+    top:26%;
+    color:white;
+    margin-right:4px;
+}
+#hidden{
+    position: absolute;
+    display: none;
+    right:6%;
+    top:37%;
+    background-color: white;
+    color: grey;
+    border: none;
+}
+#hidden:hover{
+    color: black;
+}
+#show{
+    position: absolute;
+    right:6%;
+    top:37%;
+    background-color: white;
+    color: grey;
+    border: none;
+}
+#show:hover{
+    color: black;
+}
+}
+@media (max-width:1216px) and (min-width:992px){
+    .logmaincon{
+        position:relative;
+        top:0px;
+        width: 100%;
+        max-width: 100%;
+        height:600px;
+        background-image: url(../../../src/exihibition/pexels-veeterzy-303383.jpg);
+        background-position: center;
+        background-size: cover;
+        margin-top: -18px;
+    }
+    .logmaincon .logsub{
+        position:relative;
+        top:5%;
+        left:35%;   
+        width:100%;
+        max-width:32%;
+        height:90%;
+        border-radius: 5px;
+        backdrop-filter: blur(3px);
+        background-color: rgba(97, 97, 97, 0.7);
+        
+    
+    }
+    .logmaincon form{
+        position: relative;
+        left:0px;
+        top:4%;
+        width:100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .logmaincon form input{
+        position: relative;
+        left:3%;
+        width:100%;
+        max-width: 92%;
+        height:13%;
+        margin-bottom: 30px;
+        border-radius: 3px;
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 0.5px solid grey;
+    }
+    .logmaincon form input:focus{
+        outline:none;
+    }
+    .logmaincon form label{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 600;
+        left:4%;
+        top:-4%;
+    }
+    .logmaincon form input::placeholder{
+        position: relative;
+        left:0%;
+        font-size: 0.9rem;
+    }
+    .logheader{
+        position:relative;
+        left:5%;
+        top:0px;
+        width:100%;
+        max-width: 90%;
+        height: 10%;
+        color: rgba(255, 255, 255, 0.7);
+        box-shadow: 0px 1px black;
+    
+    }
+    .logheader h1{
+        position: relative;
+        top:25%;    
+        color:black;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    #logsubmit{
+        position: relative;
+        top:20px;
+        left:35%;
+        width: 100%;
+        border-radius: 3px;
+        max-width: 30%;
+        background-color:rgb(4, 170, 106);
+        color:white;
+        font-size: 1rem;
+    }
+    #logsubmit:hover{
+        background-color: rgb(0, 128, 79);
+    }
+    #forgetP{
+        position:absolute;
+        left:35%;
+        top:45%;
+        font-size: 0.8rem;
+    
+    }
+    #forgetP:hover{
+        color:rgb(252, 89, 89);
+    }
+    .logmaincon .bottomdiv{
+        position: relative;
+        top:15px;
+        width:100%;
+        max-width: 99.5%;
+        height:34.5%;    
+    }
+    .bottomdiv p{
+        position: relative;
+        top:-30px;
+        text-align: center;
+    }
+    .bottomdiv #signup{
+        position:relative;
+        left:20%;
+        top:42%;
+        color: black;
+    }
+    .bottomdiv #signup:hover{
+        color:red;
+    }
+    #appleconnect{
+        position: relative;
+        display: flex;
+        left:20%;
+        top:-28%;
+        width: 100%;
+        max-width: 60%;
+        border-radius: 3px;
+        height: 18%;
+        background-color: black;
+        margin-bottom: 10px;
+    }
+    #appleconnect p{
+        position: relative;
+        top:-27%;
+        left: 14%;
+        font-size: 0.9rem;
+        color:white;
+    }
+    #appleconnect i{
+        position: relative;
+        left: 14%;
+        font-size: 1.3rem;
+        top:20%;
+        color:white;
+        margin-right:4px;
+    }
+    #googleconnect{
+        position: relative;
+        display: flex;
+        left:20%;
+        top:-25%;
+        width: 100%;
+        border: 1px solid black;
+        max-width: 60%;
+        border-radius: 3px;
+        height: 18%;
+        background-color: none;
+        margin-bottom: 10px;
+    }
+    #googleconnect p{
+        position: relative;
+        top:-27%;
+        left: 15%;
+        font-size: 0.9rem;
+        color:black;
+    }
+    #googleconnect img{
+        position: relative;
+        left: 14%;
+        width: 100%;
+        max-width: 6%;
+        height: 50%;
+        top:26%;
+        color:white;
+        margin-right:4px;
+    }
+    #hidden{
+        position: absolute;
+        display: none;
+        right:6%;
+        top:37%;
+        background-color: white;
+        color: grey;
+        border: none;
+    }
+    #hidden:hover{
+        color: black;
+    }
+    #show{
+        position: absolute;
+        right:6%;
+        top:37%;
+        background-color: white;
+        color: grey;
+        border: none;
+    }
+    #show:hover{
+        color: black;
+    }
+}
+@media (max-width:991px){
+    .logmaincon{
+        position:relative;
+        top:0px;
+        width: 100%;
+        max-width: 100%;
+        height:600px;
+        background-image: url(../../../src/exihibition/pexels-veeterzy-303383.jpg);
+        background-position: center;
+        background-size: cover;
+        margin-top: -18px;
+    }
+    .logmaincon .logsub{
+        position:relative;
+        top:5%;
+        left:35%;   
+        width:100%;
+        max-width:36%;
+        height:90%;
+        border-radius: 5px;
+        backdrop-filter: blur(3px);
+        background-color: rgba(97, 97, 97, 0.7);   
+    }
+    .logmaincon form{
+        position: relative;
+        left:0px;
+        top:4%;
+        width:100%;
+        max-width: 100%;
+        height: 50%;
+    }
+    .logmaincon form input{
+        position: relative;
+        left:3%;
+        width:100%;
+        max-width: 92%;
+        height:13%;
+        margin-bottom: 30px;
+        border-radius: 3px;
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 0.5px solid grey;
+    }
+    .logmaincon form input:focus{
+        outline:none;
+    }
+    .logmaincon form label{
+        position: relative;
+        font-size: 0.9rem;
+        font-weight: 600;
+        left:4%;
+        top:-4%;
+    }
+    .logmaincon form input::placeholder{
+        position: relative;
+        left:0%;
+        font-size: 0.9rem;
+    }
+    .logheader{
+        position:relative;
+        left:5%;
+        top:0px;
+        width:100%;
+        max-width: 90%;
+        height: 10%;
+        color: rgba(255, 255, 255, 0.7);
+        box-shadow: 0px 1px black;
+    
+    }
+    .logheader h1{
+        position: relative;
+        top:25%;    
+        color:black;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    #logsubmit{
+        position: relative;
+        top:20px;
+        left:35%;
+        width: 100%;
+        border-radius: 3px;
+        max-width: 30%;
+        background-color:rgb(4, 170, 106);
+        color:white;
+        font-size: 1rem;
+    }
+    #logsubmit:hover{
+        background-color: rgb(0, 128, 79);
+    }
+    #forgetP{
+        position:absolute;
+        left:35%;
+        top:45%;
+        font-size: 0.8rem;
+    
+    }
+    #forgetP:hover{
+        color:rgb(252, 89, 89);
+    }
+    .logmaincon .bottomdiv{
+        position: relative;
+        top:15px;
+        width:100%;
+        max-width: 99.5%;
+        height:34.5%;    
+    }
+    .bottomdiv p{
+        position: relative;
+        top:-30px;
+        text-align: center;
+    }
+    .bottomdiv #signup{
+        position:relative;
+        left:18%;
+        top:42%;
+        color: black;
+    }
+    .bottomdiv #signup:hover{
+        color:red;
+    }
+    #appleconnect{
+        position: relative;
+        display: flex;
+        left:20%;
+        top:-28%;
+        width: 100%;
+        max-width: 60%;
+        border-radius: 3px;
+        height: 18%;
+        background-color: black;
+        margin-bottom: 10px;
+    }
+    #appleconnect p{
+        position: relative;
+        top:-27%;
+        left: 15%;
+        font-size: 0.9rem;
+        color:white;
+    }
+    #appleconnect i{
+        position: relative;
+        left: 14%;
+        font-size: 1.3rem;
+        top:20%;
+        color:white;
+        margin-right:4px;
+    }
+    #googleconnect{
+        position: relative;
+        display: flex;
+        left:20%;
+        top:-25%;
+        width: 100%;
+        border: 1px solid black;
+        max-width: 60%;
+        border-radius: 3px;
+        height: 18%;
+        background-color: none;
+        margin-bottom: 10px;
+    }
+    #googleconnect p{
+        position: relative;
+        top:-27%;
+        left: 18%;
+        font-size: 0.9rem;
+        color:black;
+    }
+    #googleconnect img{
+        position: relative;
+        left: 16%;
+        width: 100%;
+        max-width: 6%;
+        height: 50%;
+        top:26%;
+        color:white;
+        margin-right:4px;
+    }
+    #hidden{
+        position: absolute;
+        display: none;
+        right:6%;
+        top:37%;
+        background-color: white;
+        color: grey;
+        border: none;
+    }
+    #hidden:hover{
+        color: black;
+    }
+    #show{
+        position: absolute;
+        right:6%;
+        top:37%;
+        background-color: white;
+        color: grey;
+        border: none;
+    }
+    #show:hover{
+        color: black;
+    }
+}
