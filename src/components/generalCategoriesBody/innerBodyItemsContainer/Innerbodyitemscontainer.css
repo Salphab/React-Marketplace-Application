@@ -1,0 +1,27 @@
+@media(min-width:1217px){
+    .innerbody{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+        background-color: white;
+    }
+}
+@media(max-width:1216px) and (min-width:992px){
+    .innerbody{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+        background-color: white;
+    }
+}
+@media(max-width:991px){
+    .innerbody{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        height: fit-content;
+        background-color: white;
+    }
+}
